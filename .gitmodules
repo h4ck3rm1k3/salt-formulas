@@ -1267,3 +1267,174 @@
 [submodule "saltstack-formulas_tmux-formula"]
 	path = saltstack-formulas_tmux-formula
 	url = https://github.com/saltstack-formulas/tmux-formula.git
+[submodule "semarie_openntpd-formula"]
+	path = semarie_openntpd-formula
+	url = https://github.com/semarie/openntpd-formula.git
+[submodule "shano_salt-nzbget"]
+	path = shano_salt-nzbget
+	url = https://github.com/shano/salt-nzbget.git
+[submodule "shano_salty-mailer"]
+	path = shano_salty-mailer
+	url = https://github.com/shano/salty-mailer.git
+[submodule "shano_salty-miner"]
+	path = shano_salty-miner
+	url = https://github.com/shano/salty-miner.git
+[submodule "simpoir_salt-formula-shinken"]
+	path = simpoir_salt-formula-shinken
+	url = https://github.com/simpoir/salt-formula-shinken.git
+[submodule "simpoir_salt-formula-teampass"]
+	path = simpoir_salt-formula-teampass
+	url = https://github.com/simpoir/salt-formula-teampass.git
+[submodule "sivir_tinyproxy-formula"]
+	path = sivir_tinyproxy-formula
+	url = https://github.com/sivir/tinyproxy-formula.git
+[submodule "SKoschnicke_basic-server-formula"]
+	path = SKoschnicke_basic-server-formula
+	url = https://github.com/SKoschnicke/basic-server-formula.git
+[submodule "slafs_cookiecutter-saltstack-formula"]
+	path = slafs_cookiecutter-saltstack-formula
+	url = https://github.com/slafs/cookiecutter-saltstack-formula.git
+[submodule "slafs_example-formula"]
+	path = slafs_example-formula
+	url = https://github.com/slafs/example-formula.git
+[submodule "slafs_supervisor-formula"]
+	path = slafs_supervisor-formula
+	url = https://github.com/slafs/supervisor-formula.git
+[submodule "smlloyd_saltstack-nsswitch-formula"]
+	path = smlloyd_saltstack-nsswitch-formula
+	url = https://github.com/smlloyd/saltstack-nsswitch-formula.git
+[submodule "smlloyd_saltstack-tzsetup-formula"]
+	path = smlloyd_saltstack-tzsetup-formula
+	url = https://github.com/smlloyd/saltstack-tzsetup-formula.git
+[submodule "sphilippot_RDO-formula"]
+	path = sphilippot_RDO-formula
+	url = https://github.com/sphilippot/RDO-formula.git
+[submodule "spsoit_resourcespace-formula"]
+	path = spsoit_resourcespace-formula
+	url = https://github.com/spsoit/resourcespace-formula.git
+[submodule "sroegner_zookeeper-formula"]
+	path = sroegner_zookeeper-formula
+	url = https://github.com/sroegner/zookeeper-formula.git
+[submodule "stackdio-formulas_cdh4-formula"]
+	path = stackdio-formulas_cdh4-formula
+	url = https://github.com/stackdio-formulas/cdh4-formula.git
+[submodule "stackforge_cinder-salt-formula"]
+	path = stackforge_cinder-salt-formula
+	url = https://github.com/stackforge/cinder-salt-formula.git
+[submodule "stackforge_glance-salt-formula"]
+	path = stackforge_glance-salt-formula
+	url = https://github.com/stackforge/glance-salt-formula.git
+[submodule "stackforge_horizon-salt-formula"]
+	path = stackforge_horizon-salt-formula
+	url = https://github.com/stackforge/horizon-salt-formula.git
+[submodule "stackforge_keystone-salt-formula"]
+	path = stackforge_keystone-salt-formula
+	url = https://github.com/stackforge/keystone-salt-formula.git
+[submodule "tinuva_selinux-formula"]
+	path = tinuva_selinux-formula
+	url = https://github.com/tinuva/selinux-formula.git
+[submodule "tinyclues_elasticsearch-kibana-formula"]
+	path = tinyclues_elasticsearch-kibana-formula
+	url = https://github.com/tinyclues/elasticsearch-kibana-formula.git
+[submodule "tinyclues_oracle-java-formula"]
+	path = tinyclues_oracle-java-formula
+	url = https://github.com/tinyclues/oracle-java-formula.git
+[submodule "tobinquadros_vagrant-salt-tester"]
+	path = tobinquadros_vagrant-salt-tester
+	url = https://github.com/tobinquadros/vagrant-salt-tester.git
+[submodule "tony_salt-states-configs"]
+	path = tony_salt-states-configs
+	url = https://github.com/tony/salt-states-configs.git
+[submodule "unknownlighter_formulas"]
+	path = unknownlighter_formulas
+	url = https://github.com/unknownlighter/formulas.git
+[submodule "viktortnk_salt-cassandra-formula"]
+	path = viktortnk_salt-cassandra-formula
+	url = https://github.com/viktortnk/salt-cassandra-formula.git
+[submodule "vinta_HeelsFetishism-Deployment"]
+	path = vinta_HeelsFetishism-Deployment
+	url = https://github.com/vinta/HeelsFetishism-Deployment.git
+[submodule "viq_gitlab-formula"]
+	path = viq_gitlab-formula
+	url = https://github.com/viq/gitlab-formula.git
+[submodule "virtru_common-formula"]
+	path = virtru_common-formula
+	url = https://github.com/virtru/common-formula.git
+[submodule "virtru_haproxy-formula"]
+	path = virtru_haproxy-formula
+	url = https://github.com/virtru/haproxy-formula.git
+[submodule "virtru-ops_masterless"]
+	path = virtru-ops_masterless
+	url = https://github.com/virtru-ops/masterless.git
+[submodule "virtru_packer-formula"]
+	path = virtru_packer-formula
+	url = https://github.com/virtru/packer-formula.git
+[submodule "voltaire_spigot-fomula"]
+	path = voltaire_spigot-fomula
+	url = https://github.com/voltaire/spigot-fomula.git
+[submodule "Vye_shinken-formula"]
+	path = Vye_shinken-formula
+	url = https://github.com/Vye/shinken-formula.git
+[submodule "w3w_vnstat-formula"]
+	path = w3w_vnstat-formula
+	url = https://github.com/w3w/vnstat-formula.git
+[submodule "wangqiang8511_cdh5-hadoop2-formula"]
+	path = wangqiang8511_cdh5-hadoop2-formula
+	url = https://github.com/wangqiang8511/cdh5-hadoop2-formula.git
+[submodule "wangqiang8511_hive-formula"]
+	path = wangqiang8511_hive-formula
+	url = https://github.com/wangqiang8511/hive-formula.git
+[submodule "wangqiang8511_mysql-formula"]
+	path = wangqiang8511_mysql-formula
+	url = https://github.com/wangqiang8511/mysql-formula.git
+[submodule "wangqiang8511_spark1-formula"]
+	path = wangqiang8511_spark1-formula
+	url = https://github.com/wangqiang8511/spark1-formula.git
+[submodule "wcannon_saltstack-related"]
+	path = wcannon_saltstack-related
+	url = https://github.com/wcannon/saltstack-related.git
+[submodule "webplatform_fxa-accounts-formula"]
+	path = webplatform_fxa-accounts-formula
+	url = https://github.com/webplatform/fxa-accounts-formula.git
+[submodule "westurner_apt-cacher-ng-formula"]
+	path = westurner_apt-cacher-ng-formula
+	url = https://github.com/westurner/apt-cacher-ng-formula.git
+[submodule "westurner_cookiecutter-saltformula"]
+	path = westurner_cookiecutter-saltformula
+	url = https://github.com/westurner/cookiecutter-saltformula.git
+[submodule "westurner_dotfiles-formula"]
+	path = westurner_dotfiles-formula
+	url = https://github.com/westurner/dotfiles-formula.git
+[submodule "westurner_heka-formula"]
+	path = westurner_heka-formula
+	url = https://github.com/westurner/heka-formula.git
+[submodule "westurner_htop-formula"]
+	path = westurner_htop-formula
+	url = https://github.com/westurner/htop-formula.git
+[submodule "westurner_i3wm-formula"]
+	path = westurner_i3wm-formula
+	url = https://github.com/westurner/i3wm-formula.git
+[submodule "westurner_ipython-formula"]
+	path = westurner_ipython-formula
+	url = https://github.com/westurner/ipython-formula.git
+[submodule "westurner_mercurial-formula"]
+	path = westurner_mercurial-formula
+	url = https://github.com/westurner/mercurial-formula.git
+[submodule "westurner_packer-formula"]
+	path = westurner_packer-formula
+	url = https://github.com/westurner/packer-formula.git
+[submodule "westurner_python-formula"]
+	path = westurner_python-formula
+	url = https://github.com/westurner/python-formula.git
+[submodule "westurner_repos-formula"]
+	path = westurner_repos-formula
+	url = https://github.com/westurner/repos-formula.git
+[submodule "westurner_shinken-formula"]
+	path = westurner_shinken-formula
+	url = https://github.com/westurner/shinken-formula.git
+[submodule "westurner_shorewall-formula"]
+	path = westurner_shorewall-formula
+	url = https://github.com/westurner/shorewall-formula.git
+[submodule "westurner_supervisord-formula"]
+	path = westurner_supervisord-formula
+	url = https://github.com/westurner/supervisord-formula.git
