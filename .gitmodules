@@ -967,3 +967,234 @@
 [submodule "mcsrainbow_salt-states-hadoop"]
 	path = mcsrainbow_salt-states-hadoop
 	url = https://github.com/mcsrainbow/salt-states-hadoop.git
+[submodule "nmadhok_sumologic-formula"]
+	path = nmadhok_sumologic-formula
+	url = https://github.com/nmadhok/sumologic-formula.git
+[submodule "nmadhok_zfs-formula"]
+	path = nmadhok_zfs-formula
+	url = https://github.com/nmadhok/zfs-formula.git
+[submodule "nvhbk16k53_saltstack-formulas"]
+	path = nvhbk16k53_saltstack-formulas
+	url = https://github.com/nvhbk16k53/saltstack-formulas.git
+[submodule "NVSeismoLab_antelope-formula"]
+	path = NVSeismoLab_antelope-formula
+	url = https://github.com/NVSeismoLab/antelope-formula.git
+[submodule "NVSeismoLab_obspy-formula"]
+	path = NVSeismoLab_obspy-formula
+	url = https://github.com/NVSeismoLab/obspy-formula.git
+[submodule "NVSeismoLab_ringserver-formula"]
+	path = NVSeismoLab_ringserver-formula
+	url = https://github.com/NVSeismoLab/ringserver-formula.git
+[submodule "oc_gitrepo-salt-state"]
+	path = oc_gitrepo-salt-state
+	url = https://github.com/oc/gitrepo-salt-state.git
+[submodule "oc_jvm-salt-state"]
+	path = oc_jvm-salt-state
+	url = https://github.com/oc/jvm-salt-state.git
+[submodule "oc_roninku"]
+	path = oc_roninku
+	url = https://github.com/oc/roninku.git
+[submodule "openscihub_osh-salt-java"]
+	path = openscihub_osh-salt-java
+	url = https://github.com/openscihub/osh-salt-java.git
+[submodule "p404_Salt-Formulas"]
+	path = p404_Salt-Formulas
+	url = https://github.com/p404/Salt-Formulas.git
+[submodule "pabluk_scrapy-formula"]
+	path = pabluk_scrapy-formula
+	url = https://github.com/pabluk/scrapy-formula.git
+[submodule "pasipa2_saltstack-formulas"]
+	path = pasipa2_saltstack-formulas
+	url = https://github.com/pasipa2/saltstack-formulas.git
+[submodule "paystee_saltstack-sandbox"]
+	path = paystee_saltstack-sandbox
+	url = https://github.com/paystee/saltstack-sandbox.git
+[submodule "paystee_users-formula"]
+	path = paystee_users-formula
+	url = https://github.com/paystee/users-formula.git
+[submodule "pengyao_salt-lvs"]
+	path = pengyao_salt-lvs
+	url = https://github.com/pengyao/salt-lvs.git
+[submodule "pengyao_salt-mysql"]
+	path = pengyao_salt-mysql
+	url = https://github.com/pengyao/salt-mysql.git
+[submodule "pengyao_salt-prereq-demo"]
+	path = pengyao_salt-prereq-demo
+	url = https://github.com/pengyao/salt-prereq-demo.git
+[submodule "pengyao_salt-zabbix"]
+	path = pengyao_salt-zabbix
+	url = https://github.com/pengyao/salt-zabbix.git
+[submodule "Pexeso_circus-formula"]
+	path = Pexeso_circus-formula
+	url = https://github.com/Pexeso/circus-formula.git
+[submodule "Pexeso_pypack-formula"]
+	path = Pexeso_pypack-formula
+	url = https://github.com/Pexeso/pypack-formula.git
+[submodule "philipsd6_twemproxy-formula-original"]
+	path = philipsd6_twemproxy-formula-original
+	url = https://github.com/philipsd6/twemproxy-formula-original.git
+[submodule "powellchristoph_sensu-formula"]
+	path = powellchristoph_sensu-formula
+	url = https://github.com/powellchristoph/sensu-formula.git
+[submodule "Psycojoker_cellar"]
+	path = Psycojoker_cellar
+	url = https://github.com/Psycojoker/cellar.git
+[submodule "Psycojoker_dishes"]
+	path = Psycojoker_dishes
+	url = https://github.com/Psycojoker/dishes.git
+[submodule "Psycojoker_ii-bot-formula"]
+	path = Psycojoker_ii-bot-formula
+	url = https://github.com/Psycojoker/ii-bot-formula.git
+[submodule "Psycojoker_salt-test"]
+	path = Psycojoker_salt-test
+	url = https://github.com/Psycojoker/salt-test.git
+[submodule "publysher_infra-example-nginx"]
+	path = publysher_infra-example-nginx
+	url = https://github.com/publysher/infra-example-nginx.git
+[submodule "pyinx_saltstack-openstack-havana-rdo"]
+	path = pyinx_saltstack-openstack-havana-rdo
+	url = https://github.com/pyinx/saltstack-openstack-havana-rdo.git
+[submodule "raadad_node-dev-vagrant-example"]
+	path = raadad_node-dev-vagrant-example
+	url = https://github.com/raadad/node-dev-vagrant-example.git
+[submodule "rackeric_salt-hadoop"]
+	path = rackeric_salt-hadoop
+	url = https://github.com/rackeric/salt-hadoop.git
+[submodule "rackeric_salt-nummr"]
+	path = rackeric_salt-nummr
+	url = https://github.com/rackeric/salt-nummr.git
+[submodule "rbolante_salt-mariadb"]
+	path = rbolante_salt-mariadb
+	url = https://github.com/rbolante/salt-mariadb.git
+[submodule "reclass_test-sandbox"]
+	path = reclass_test-sandbox
+	url = https://github.com/reclass/test-sandbox.git
+[submodule "reinsle_apache-formula"]
+	path = reinsle_apache-formula
+	url = https://github.com/reinsle/apache-formula.git
+[submodule "reinsle_debian-formula"]
+	path = reinsle_debian-formula
+	url = https://github.com/reinsle/debian-formula.git
+[submodule "reinsle_dovecot-formula"]
+	path = reinsle_dovecot-formula
+	url = https://github.com/reinsle/dovecot-formula.git
+[submodule "reinsle_editor-formula"]
+	path = reinsle_editor-formula
+	url = https://github.com/reinsle/editor-formula.git
+[submodule "reinsle_einsle-formula"]
+	path = reinsle_einsle-formula
+	url = https://github.com/reinsle/einsle-formula.git
+[submodule "reinsle_packages-formula"]
+	path = reinsle_packages-formula
+	url = https://github.com/reinsle/packages-formula.git
+[submodule "reinsle_screen-formula"]
+	path = reinsle_screen-formula
+	url = https://github.com/reinsle/screen-formula.git
+[submodule "reinsle_shorewall-formula"]
+	path = reinsle_shorewall-formula
+	url = https://github.com/reinsle/shorewall-formula.git
+[submodule "renoirb_openssl-formula"]
+	path = renoirb_openssl-formula
+	url = https://github.com/renoirb/openssl-formula.git
+[submodule "rfairburn_salt-grains-formula"]
+	path = rfairburn_salt-grains-formula
+	url = https://github.com/rfairburn/salt-grains-formula.git
+[submodule "rfairburn_salt-nagios-formula"]
+	path = rfairburn_salt-nagios-formula
+	url = https://github.com/rfairburn/salt-nagios-formula.git
+[submodule "rilindo_cacti-formula"]
+	path = rilindo_cacti-formula
+	url = https://github.com/rilindo/cacti-formula.git
+[submodule "rilindo_ddclient-formula"]
+	path = rilindo_ddclient-formula
+	url = https://github.com/rilindo/ddclient-formula.git
+[submodule "roblayton_vim-formula"]
+	path = roblayton_vim-formula
+	url = https://github.com/roblayton/vim-formula.git
+[submodule "rossnz_salt-formulas"]
+	path = rossnz_salt-formulas
+	url = https://github.com/rossnz/salt-formulas.git
+[submodule "ross-p_zmq-formula"]
+	path = ross-p_zmq-formula
+	url = https://github.com/ross-p/zmq-formula.git
+[submodule "rotschopf_samba-formula"]
+	path = rotschopf_samba-formula
+	url = https://github.com/rotschopf/samba-formula.git
+[submodule "rotschopf_virtualbox-formula"]
+	path = rotschopf_virtualbox-formula
+	url = https://github.com/rotschopf/virtualbox-formula.git
+[submodule "ryancurrah_limits-formula"]
+	path = ryancurrah_limits-formula
+	url = https://github.com/ryancurrah/limits-formula.git
+[submodule "RyanHartje_salt-ossec-formula"]
+	path = RyanHartje_salt-ossec-formula
+	url = https://github.com/RyanHartje/salt-ossec-formula.git
+[submodule "sagansystems_sagan-salt-formula"]
+	path = sagansystems_sagan-salt-formula
+	url = https://github.com/sagansystems/sagan-salt-formula.git
+[submodule "sagansystems_salt-masterless-formula"]
+	path = sagansystems_salt-masterless-formula
+	url = https://github.com/sagansystems/salt-masterless-formula.git
+[submodule "saltstack-formulas_accumulo-formula"]
+	path = saltstack-formulas_accumulo-formula
+	url = https://github.com/saltstack-formulas/accumulo-formula.git
+[submodule "saltstack-formulas_apache-formula"]
+	path = saltstack-formulas_apache-formula
+	url = https://github.com/saltstack-formulas/apache-formula.git
+[submodule "saltstack-formulas_apt-cacher-formula"]
+	path = saltstack-formulas_apt-cacher-formula
+	url = https://github.com/saltstack-formulas/apt-cacher-formula.git
+[submodule "saltstack-formulas_apt-formula"]
+	path = saltstack-formulas_apt-formula
+	url = https://github.com/saltstack-formulas/apt-formula.git
+[submodule "saltstack-formulas_aptly-formula"]
+	path = saltstack-formulas_aptly-formula
+	url = https://github.com/saltstack-formulas/aptly-formula.git
+[submodule "saltstack-formulas_avahi-formula"]
+	path = saltstack-formulas_avahi-formula
+	url = https://github.com/saltstack-formulas/avahi-formula.git
+[submodule "saltstack-formulas_backuptocloud-formula"]
+	path = saltstack-formulas_backuptocloud-formula
+	url = https://github.com/saltstack-formulas/backuptocloud-formula.git
+[submodule "saltstack-formulas_beaver-formula"]
+	path = saltstack-formulas_beaver-formula
+	url = https://github.com/saltstack-formulas/beaver-formula.git
+[submodule "saltstack-formulas_bind-formula"]
+	path = saltstack-formulas_bind-formula
+	url = https://github.com/saltstack-formulas/bind-formula.git
+[submodule "saltstack-formulas_boundary-formula"]
+	path = saltstack-formulas_boundary-formula
+	url = https://github.com/saltstack-formulas/boundary-formula.git
+[submodule "saltstack-formulas_build-essential-formula"]
+	path = saltstack-formulas_build-essential-formula
+	url = https://github.com/saltstack-formulas/build-essential-formula.git
+[submodule "saltstack-formulas_canvas-formula"]
+	path = saltstack-formulas_canvas-formula
+	url = https://github.com/saltstack-formulas/canvas-formula.git
+[submodule "saltstack-formulas_ceph-formula"]
+	path = saltstack-formulas_ceph-formula
+	url = https://github.com/saltstack-formulas/ceph-formula.git
+[submodule "saltstack-formulas_chef-formula"]
+	path = saltstack-formulas_chef-formula
+	url = https://github.com/saltstack-formulas/chef-formula.git
+[submodule "saltstack-formulas_cherrypy-formula"]
+	path = saltstack-formulas_cherrypy-formula
+	url = https://github.com/saltstack-formulas/cherrypy-formula.git
+[submodule "saltstack-formulas_cloudstack-formula"]
+	path = saltstack-formulas_cloudstack-formula
+	url = https://github.com/saltstack-formulas/cloudstack-formula.git
+[submodule "saltstack-formulas_collectd-formula"]
+	path = saltstack-formulas_collectd-formula
+	url = https://github.com/saltstack-formulas/collectd-formula.git
+[submodule "saltstack-formulas_dansguardian-formula"]
+	path = saltstack-formulas_dansguardian-formula
+	url = https://github.com/saltstack-formulas/dansguardian-formula.git
+[submodule "saltstack-formulas_ddclient-formula"]
+	path = saltstack-formulas_ddclient-formula
+	url = https://github.com/saltstack-formulas/ddclient-formula.git
+[submodule "saltstack-formulas_dhcpd-formula"]
+	path = saltstack-formulas_dhcpd-formula
+	url = https://github.com/saltstack-formulas/dhcpd-formula.git
+[submodule "saltstack-formulas_django-formula"]
+	path = saltstack-formulas_django-formula
+	url = https://github.com/saltstack-formulas/django-formula.git
