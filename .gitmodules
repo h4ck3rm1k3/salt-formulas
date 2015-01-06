@@ -1246,3 +1246,24 @@
 [submodule "saltstack-formulas_proftpd-formula"]
 	path = saltstack-formulas_proftpd-formula
 	url = https://github.com/saltstack-formulas/proftpd-formula.git
+[submodule "saltstack-formulas_svn-formula"]
+	path = saltstack-formulas_svn-formula
+	url = https://github.com/saltstack-formulas/svn-formula.git
+[submodule "saltstack-formulas_syslog-ng-formula"]
+	path = saltstack-formulas_syslog-ng-formula
+	url = https://github.com/saltstack-formulas/syslog-ng-formula.git
+[submodule "saltstack-formulas_sysstat-formula"]
+	path = saltstack-formulas_sysstat-formula
+	url = https://github.com/saltstack-formulas/sysstat-formula.git
+[submodule "saltstack-formulas_template-formula"]
+	path = saltstack-formulas_template-formula
+	url = https://github.com/saltstack-formulas/template-formula.git
+[submodule "saltstack-formulas_thrift-formula"]
+	path = saltstack-formulas_thrift-formula
+	url = https://github.com/saltstack-formulas/thrift-formula.git
+[submodule "saltstack-formulas_tinc-formula"]
+	path = saltstack-formulas_tinc-formula
+	url = https://github.com/saltstack-formulas/tinc-formula.git
+[submodule "saltstack-formulas_tmux-formula"]
+	path = saltstack-formulas_tmux-formula
+	url = https://github.com/saltstack-formulas/tmux-formula.git
