@@ -1219,3 +1219,30 @@
 [submodule "saltstack-formulas_libvirt-formula"]
 	path = saltstack-formulas_libvirt-formula
 	url = https://github.com/saltstack-formulas/libvirt-formula.git
+[submodule "saltstack-formulas_php-formula"]
+	path = saltstack-formulas_php-formula
+	url = https://github.com/saltstack-formulas/php-formula.git
+[submodule "saltstack-formulas_pip-formula"]
+	path = saltstack-formulas_pip-formula
+	url = https://github.com/saltstack-formulas/pip-formula.git
+[submodule "saltstack-formulas_piwik-formula"]
+	path = saltstack-formulas_piwik-formula
+	url = https://github.com/saltstack-formulas/piwik-formula.git
+[submodule "saltstack-formulas_plone-formula"]
+	path = saltstack-formulas_plone-formula
+	url = https://github.com/saltstack-formulas/plone-formula.git
+[submodule "saltstack-formulas_polycom-formula"]
+	path = saltstack-formulas_polycom-formula
+	url = https://github.com/saltstack-formulas/polycom-formula.git
+[submodule "saltstack-formulas_postfix-formula"]
+	path = saltstack-formulas_postfix-formula
+	url = https://github.com/saltstack-formulas/postfix-formula.git
+[submodule "saltstack-formulas_postgres-formula"]
+	path = saltstack-formulas_postgres-formula
+	url = https://github.com/saltstack-formulas/postgres-formula.git
+[submodule "saltstack-formulas_powerdns-formula"]
+	path = saltstack-formulas_powerdns-formula
+	url = https://github.com/saltstack-formulas/powerdns-formula.git
+[submodule "saltstack-formulas_proftpd-formula"]
+	path = saltstack-formulas_proftpd-formula
+	url = https://github.com/saltstack-formulas/proftpd-formula.git
