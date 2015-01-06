@@ -19,6 +19,11 @@ generate the checkout script based on the formulas.txt
     python checkout.py > checkout.sh
     bash -x checkout.sh 
 
+checkers
+========
+find -name \*.yml > yamlfiles.txt
+find -name \*.sls > slsfiles.txt
+find -name \*.py > pyfiles.txt
 
 Home
 ====
