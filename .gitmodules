@@ -1198,3 +1198,24 @@
 [submodule "saltstack-formulas_django-formula"]
 	path = saltstack-formulas_django-formula
 	url = https://github.com/saltstack-formulas/django-formula.git
+[submodule "saltstack-formulas_java-formula"]
+	path = saltstack-formulas_java-formula
+	url = https://github.com/saltstack-formulas/java-formula.git
+[submodule "saltstack-formulas_jdbc-formula"]
+	path = saltstack-formulas_jdbc-formula
+	url = https://github.com/saltstack-formulas/jdbc-formula.git
+[submodule "saltstack-formulas_jenkins-formula"]
+	path = saltstack-formulas_jenkins-formula
+	url = https://github.com/saltstack-formulas/jenkins-formula.git
+[submodule "saltstack-formulas_jmxtrans-formula"]
+	path = saltstack-formulas_jmxtrans-formula
+	url = https://github.com/saltstack-formulas/jmxtrans-formula.git
+[submodule "saltstack-formulas_keystone-formula"]
+	path = saltstack-formulas_keystone-formula
+	url = https://github.com/saltstack-formulas/keystone-formula.git
+[submodule "saltstack-formulas_latex-formula"]
+	path = saltstack-formulas_latex-formula
+	url = https://github.com/saltstack-formulas/latex-formula.git
+[submodule "saltstack-formulas_libvirt-formula"]
+	path = saltstack-formulas_libvirt-formula
+	url = https://github.com/saltstack-formulas/libvirt-formula.git
