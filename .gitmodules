@@ -1966,3 +1966,1272 @@
 [submodule "zhangcheng_salt-repo"]
 	path = zhangcheng_salt-repo
 	url = https://github.com/zhangcheng/salt-repo.git
+[submodule "0xf10e_openstack-formula"]
+	path = 0xf10e_openstack-formula
+	url = https://github.com/0xf10e/openstack-formula.git
+[submodule "666jfox777_nodejs-admin-salt"]
+	path = 666jfox777_nodejs-admin-salt
+	url = https://github.com/666jfox777/nodejs-admin-salt.git
+[submodule "666jfox777_vagrant-saltstack-example"]
+	path = 666jfox777_vagrant-saltstack-example
+	url = https://github.com/666jfox777/vagrant-saltstack-example.git
+[submodule "aaae_salt-config-example"]
+	path = aaae_salt-config-example
+	url = https://github.com/aaae/salt-config-example.git
+[submodule "aaae_saltstack_web"]
+	path = aaae_saltstack_web
+	url = https://github.com/aaae/saltstack_web.git
+[submodule "absalon-james_heat-saltstack"]
+	path = absalon-james_heat-saltstack
+	url = https://github.com/absalon-james/heat-saltstack.git
+[submodule "accumulo_accumulo-saltstack"]
+	path = accumulo_accumulo-saltstack
+	url = https://github.com/accumulo/accumulo-saltstack.git
+[submodule "accumulo_accumulo-saltstack-pillar"]
+	path = accumulo_accumulo-saltstack-pillar
+	url = https://github.com/accumulo/accumulo-saltstack-pillar.git
+[submodule "Adcade_mongodb-formula"]
+	path = Adcade_mongodb-formula
+	url = https://github.com/Adcade/mongodb-formula.git
+[submodule "aexeagmbh_django_saltstack"]
+	path = aexeagmbh_django_saltstack
+	url = https://github.com/aexeagmbh/django_saltstack.git
+[submodule "AFPy_salt-fr"]
+	path = AFPy_salt-fr
+	url = https://github.com/AFPy/salt-fr.git
+[submodule "agoragames_saltstack-sandbox"]
+	path = agoragames_saltstack-sandbox
+	url = https://github.com/agoragames/saltstack-sandbox.git
+[submodule "ahale_salt-playground"]
+	path = ahale_salt-playground
+	url = https://github.com/ahale/salt-playground.git
+[submodule "ahmadsherif_salty-vagrant-grains"]
+	path = ahmadsherif_salty-vagrant-grains
+	url = https://github.com/ahmadsherif/salty-vagrant-grains.git
+[submodule "akafred_cloudmaster"]
+	path = akafred_cloudmaster
+	url = https://github.com/akafred/cloudmaster.git
+[submodule "akoumjian_elasticsearch-logstash-kibana"]
+	path = akoumjian_elasticsearch-logstash-kibana
+	url = https://github.com/akoumjian/elasticsearch-logstash-kibana.git
+[submodule "akoumjian_salt-django-dummy-stack"]
+	path = akoumjian_salt-django-dummy-stack
+	url = https://github.com/akoumjian/salt-django-dummy-stack.git
+[submodule "alexebube_vagrant-saltstack"]
+	path = alexebube_vagrant-saltstack
+	url = https://github.com/alexebube/vagrant-saltstack.git
+[submodule "alexland_scientific-python-dev-environment-in-vagrant-saltstack"]
+	path = alexland_scientific-python-dev-environment-in-vagrant-saltstack
+	url = https://github.com/alexland/scientific-python-dev-environment-in-vagrant-saltstack.git
+[submodule "andersb73_saltstack-snippets"]
+	path = andersb73_saltstack-snippets
+	url = https://github.com/andersb73/saltstack-snippets.git
+[submodule "andrewrothstein_saltstack"]
+	path = andrewrothstein_saltstack
+	url = https://github.com/andrewrothstein/saltstack.git
+[submodule "anorgan_vagrant-saltstack"]
+	path = anorgan_vagrant-saltstack
+	url = https://github.com/anorgan/vagrant-saltstack.git
+[submodule "AppThemes_salt-config-example"]
+	path = AppThemes_salt-config-example
+	url = https://github.com/AppThemes/salt-config-example.git
+[submodule "APSL_saltstack_talk"]
+	path = APSL_saltstack_talk
+	url = https://github.com/APSL/saltstack_talk.git
+[submodule "Arnosir_Saltstack"]
+	path = Arnosir_Saltstack
+	url = https://github.com/Arnosir/Saltstack.git
+[submodule "astral1_vagrant-salt-test"]
+	path = astral1_vagrant-salt-test
+	url = https://github.com/astral1/vagrant-salt-test.git
+[submodule "audleman_vagrant-jenkins"]
+	path = audleman_vagrant-jenkins
+	url = https://github.com/audleman/vagrant-jenkins.git
+[submodule "baixuan_saltstack-openstack"]
+	path = baixuan_saltstack-openstack
+	url = https://github.com/baixuan/saltstack-openstack.git
+[submodule "balamurugana_salt-gluster"]
+	path = balamurugana_salt-gluster
+	url = https://github.com/balamurugana/salt-gluster.git
+[submodule "baremetal-states_postgresql"]
+	path = baremetal-states_postgresql
+	url = https://github.com/baremetal-states/postgresql.git
+[submodule "barryib_docker-salt"]
+	path = barryib_docker-salt
+	url = https://github.com/barryib/docker-salt.git
+[submodule "batnerd_saltstack"]
+	path = batnerd_saltstack
+	url = https://github.com/batnerd/saltstack.git
+[submodule "bechtoldt_saltstack-apt-formula"]
+	path = bechtoldt_saltstack-apt-formula
+	url = https://github.com/bechtoldt/saltstack-apt-formula.git
+[submodule "bechtoldt_saltstack-linux-formula"]
+	path = bechtoldt_saltstack-linux-formula
+	url = https://github.com/bechtoldt/saltstack-linux-formula.git
+[submodule "bechtoldt_saltstack-php-formula"]
+	path = bechtoldt_saltstack-php-formula
+	url = https://github.com/bechtoldt/saltstack-php-formula.git
+[submodule "bechtoldt_saltstack-proftpd-formula"]
+	path = bechtoldt_saltstack-proftpd-formula
+	url = https://github.com/bechtoldt/saltstack-proftpd-formula.git
+[submodule "bekeomut_saltstack-demo"]
+	path = bekeomut_saltstack-demo
+	url = https://github.com/bekeomut/saltstack-demo.git
+[submodule "belooussov_salt-scaleup"]
+	path = belooussov_salt-scaleup
+	url = https://github.com/belooussov/salt-scaleup.git
+[submodule "benhosmer_getting-started-with-saltstack"]
+	path = benhosmer_getting-started-with-saltstack
+	url = https://github.com/benhosmer/getting-started-with-saltstack.git
+[submodule "benneic_vagrant-openstack-saltstack"]
+	path = benneic_vagrant-openstack-saltstack
+	url = https://github.com/benneic/vagrant-openstack-saltstack.git
+[submodule "bird-house_birdhousebuilder.salted"]
+	path = bird-house_birdhousebuilder.salted
+	url = https://github.com/bird-house/birdhousebuilder.salted.git
+[submodule "blakfeld_salt-shaker"]
+	path = blakfeld_salt-shaker
+	url = https://github.com/blakfeld/salt-shaker.git
+[submodule "bolshevik_debian-nas-saltstack"]
+	path = bolshevik_debian-nas-saltstack
+	url = https://github.com/bolshevik/debian-nas-saltstack.git
+[submodule "boosheng_salt_admin"]
+	path = boosheng_salt_admin
+	url = https://github.com/boosheng/salt_admin.git
+[submodule "borgstrom_nacl"]
+	path = borgstrom_nacl
+	url = https://github.com/borgstrom/nacl.git
+[submodule "bossjones_salt-scarlett"]
+	path = bossjones_salt-scarlett
+	url = https://github.com/bossjones/salt-scarlett.git
+[submodule "bougie_ansible_salt-minion"]
+	path = bougie_ansible_salt-minion
+	url = https://github.com/bougie/ansible_salt-minion.git
+[submodule "brad-babb_saltstack-ssh"]
+	path = brad-babb_saltstack-ssh
+	url = https://github.com/brad-babb/saltstack-ssh.git
+[submodule "carlcrott_graphite"]
+	path = carlcrott_graphite
+	url = https://github.com/carlcrott/graphite.git
+[submodule "catnameddog_salt"]
+	path = catnameddog_salt
+	url = https://github.com/catnameddog/salt.git
+[submodule "ccwang002_play_saltstack"]
+	path = ccwang002_play_saltstack
+	url = https://github.com/ccwang002/play_saltstack.git
+[submodule "cedwards_SaltConf-2014"]
+	path = cedwards_SaltConf-2014
+	url = https://github.com/cedwards/SaltConf-2014.git
+[submodule "cfchou_deploy_recipes"]
+	path = cfchou_deploy_recipes
+	url = https://github.com/cfchou/deploy_recipes.git
+[submodule "cgallemore_djvasa"]
+	path = cgallemore_djvasa
+	url = https://github.com/cgallemore/djvasa.git
+[submodule "chekolyn_cis-saltstack"]
+	path = chekolyn_cis-saltstack
+	url = https://github.com/chekolyn/cis-saltstack.git
+[submodule "choopooly_salt-states"]
+	path = choopooly_salt-states
+	url = https://github.com/choopooly/salt-states.git
+[submodule "CivicNinjas_HealthAround.me-saltstack"]
+	path = CivicNinjas_HealthAround.me-saltstack
+	url = https://github.com/CivicNinjas/HealthAround.me-saltstack.git
+[submodule "CivicNinjas_HealthAround.me-vagrant"]
+	path = CivicNinjas_HealthAround.me-vagrant
+	url = https://github.com/CivicNinjas/HealthAround.me-vagrant.git
+[submodule "cjhardekopf_saltstack"]
+	path = cjhardekopf_saltstack
+	url = https://github.com/cjhardekopf/saltstack.git
+[submodule "cloudify-cosmo_cloudify-saltstack-plugin"]
+	path = cloudify-cosmo_cloudify-saltstack-plugin
+	url = https://github.com/cloudify-cosmo/cloudify-saltstack-plugin.git
+[submodule "cluther_salt-states"]
+	path = cluther_salt-states
+	url = https://github.com/cluther/salt-states.git
+[submodule "code-ape_SaltFiles"]
+	path = code-ape_SaltFiles
+	url = https://github.com/code-ape/SaltFiles.git
+[submodule "wwwouter_box-ubuntu12.04-saltstack"]
+	path = wwwouter_box-ubuntu12.04-saltstack
+	url = https://github.com/wwwouter/box-ubuntu12.04-saltstack.git
+[submodule "anderbubble_salt-states-firewall"]
+	path = anderbubble_salt-states-firewall
+	url = https://github.com/anderbubble/salt-states-firewall.git
+[submodule "rabits_salt-stack-modules"]
+	path = rabits_salt-stack-modules
+	url = https://github.com/rabits/salt-stack-modules.git
+[submodule "silentsokolov_python-vagrant-env"]
+	path = silentsokolov_python-vagrant-env
+	url = https://github.com/silentsokolov/python-vagrant-env.git
+[submodule "zignig_substrate_salt"]
+	path = zignig_substrate_salt
+	url = https://github.com/zignig/substrate_salt.git
+[submodule "lorengordon_emet-formula"]
+	path = lorengordon_emet-formula
+	url = https://github.com/lorengordon/emet-formula.git
+[submodule "sjlu_salt-states"]
+	path = sjlu_salt-states
+	url = https://github.com/sjlu/salt-states.git
+[submodule "KyleBenson_SmartAmericaSensors"]
+	path = KyleBenson_SmartAmericaSensors
+	url = https://github.com/KyleBenson/SmartAmericaSensors.git
+[submodule "mlk007_vagrant-saltsatck"]
+	path = mlk007_vagrant-saltsatck
+	url = https://github.com/mlk007/vagrant-saltsatck.git
+[submodule "mrDarcyMurphy_saltstack-node-koa"]
+	path = mrDarcyMurphy_saltstack-node-koa
+	url = https://github.com/mrDarcyMurphy/saltstack-node-koa.git
+[submodule "jenius_salt-config"]
+	path = jenius_salt-config
+	url = https://github.com/jenius/salt-config.git
+[submodule "mbrgm_vagrant-saltstack-example"]
+	path = mbrgm_vagrant-saltstack-example
+	url = https://github.com/mbrgm/vagrant-saltstack-example.git
+[submodule "d0m0reg00dthing_openstack-juno-saltstack"]
+	path = d0m0reg00dthing_openstack-juno-saltstack
+	url = https://github.com/d0m0reg00dthing/openstack-juno-saltstack.git
+[submodule "naegelin_saltapi"]
+	path = naegelin_saltapi
+	url = https://github.com/naegelin/saltapi.git
+[submodule "KHresearch_salt"]
+	path = KHresearch_salt
+	url = https://github.com/KHresearch/salt.git
+[submodule "EntropyWorks_SpiceRack"]
+	path = EntropyWorks_SpiceRack
+	url = https://github.com/EntropyWorks/SpiceRack.git
+[submodule "saltstack_saltflo"]
+	path = saltstack_saltflo
+	url = https://github.com/saltstack/saltflo.git
+[submodule "tricoder42_age-of-saltstack"]
+	path = tricoder42_age-of-saltstack
+	url = https://github.com/tricoder42/age-of-saltstack.git
+[submodule "gepoch_salt-gitlab"]
+	path = gepoch_salt-gitlab
+	url = https://github.com/gepoch/salt-gitlab.git
+[submodule "lindblom_node-postgres-vagrant-saltstack"]
+	path = lindblom_node-postgres-vagrant-saltstack
+	url = https://github.com/lindblom/node-postgres-vagrant-saltstack.git
+[submodule "lietu-org_salt-init"]
+	path = lietu-org_salt-init
+	url = https://github.com/lietu-org/salt-init.git
+[submodule "llnw_salt-build-freebsd"]
+	path = llnw_salt-build-freebsd
+	url = https://github.com/llnw/salt-build-freebsd.git
+[submodule "mirath_wordpress_test"]
+	path = mirath_wordpress_test
+	url = https://github.com/mirath/wordpress_test.git
+[submodule "visualphoenix_awesome-saltstack"]
+	path = visualphoenix_awesome-saltstack
+	url = https://github.com/visualphoenix/awesome-saltstack.git
+[submodule "hvnsweeting_nrpebase"]
+	path = hvnsweeting_nrpebase
+	url = https://github.com/hvnsweeting/nrpebase.git
+[submodule "SReadFox_salt"]
+	path = SReadFox_salt
+	url = https://github.com/SReadFox/salt.git
+[submodule "scalr-tutorials_scalr-saltstack"]
+	path = scalr-tutorials_scalr-saltstack
+	url = https://github.com/scalr-tutorials/scalr-saltstack.git
+[submodule "gutocarvalho_puppet-saltstack"]
+	path = gutocarvalho_puppet-saltstack
+	url = https://github.com/gutocarvalho/puppet-saltstack.git
+[submodule "eHealthAfrica_salt_demo"]
+	path = eHealthAfrica_salt_demo
+	url = https://github.com/eHealthAfrica/salt_demo.git
+[submodule "Ropes_desalinate"]
+	path = Ropes_desalinate
+	url = https://github.com/Ropes/desalinate.git
+[submodule "opsnotes_saltstack"]
+	path = opsnotes_saltstack
+	url = https://github.com/opsnotes/saltstack.git
+[submodule "nanitesoftware_salt"]
+	path = nanitesoftware_salt
+	url = https://github.com/nanitesoftware/salt.git
+[submodule "hipikat_salt-roots"]
+	path = hipikat_salt-roots
+	url = https://github.com/hipikat/salt-roots.git
+[submodule "chooper_cch-salt"]
+	path = chooper_cch-salt
+	url = https://github.com/chooper/cch-salt.git
+[submodule "mulx_saltstack"]
+	path = mulx_saltstack
+	url = https://github.com/mulx/saltstack.git
+[submodule "lorengordon_netbanner-formula"]
+	path = lorengordon_netbanner-formula
+	url = https://github.com/lorengordon/netbanner-formula.git
+[submodule "steveYeah_vagrant-salt-php"]
+	path = steveYeah_vagrant-salt-php
+	url = https://github.com/steveYeah/vagrant-salt-php.git
+[submodule "ecoprojects_Saltstack"]
+	path = ecoprojects_Saltstack
+	url = https://github.com/ecoprojects/Saltstack.git
+[submodule "kstaken_salt-test-runner"]
+	path = kstaken_salt-test-runner
+	url = https://github.com/kstaken/salt-test-runner.git
+[submodule "gpkvt_salt"]
+	path = gpkvt_salt
+	url = https://github.com/gpkvt/salt.git
+[submodule "miguelpalma_saltstack-serverbase-formula"]
+	path = miguelpalma_saltstack-serverbase-formula
+	url = https://github.com/miguelpalma/saltstack-serverbase-formula.git
+[submodule "y0j_salt-configs"]
+	path = y0j_salt-configs
+	url = https://github.com/y0j/salt-configs.git
+[submodule "Xangis_salt"]
+	path = Xangis_salt
+	url = https://github.com/Xangis/salt.git
+[submodule "roblayton_master-minion-salt-vagrant"]
+	path = roblayton_master-minion-salt-vagrant
+	url = https://github.com/roblayton/master-minion-salt-vagrant.git
+[submodule "WJIAN_salt_range"]
+	path = WJIAN_salt_range
+	url = https://github.com/WJIAN/salt_range.git
+[submodule "tf198_salt-states"]
+	path = tf198_salt-states
+	url = https://github.com/tf198/salt-states.git
+[submodule "walkerbill_saltstack"]
+	path = walkerbill_saltstack
+	url = https://github.com/walkerbill/saltstack.git
+[submodule "kerncai_saltstack"]
+	path = kerncai_saltstack
+	url = https://github.com/kerncai/saltstack.git
+[submodule "servo_saltfs"]
+	path = servo_saltfs
+	url = https://github.com/servo/saltfs.git
+[submodule "stevepacker_salt-states"]
+	path = stevepacker_salt-states
+	url = https://github.com/stevepacker/salt-states.git
+[submodule "HavardLine_saltstack-LTS-AS"]
+	path = HavardLine_saltstack-LTS-AS
+	url = https://github.com/HavardLine/saltstack-LTS-AS.git
+[submodule "humanmade_Salty-WordPress"]
+	path = humanmade_Salty-WordPress
+	url = https://github.com/humanmade/Salty-WordPress.git
+[submodule "keshavos_vagrant-salt-demo"]
+	path = keshavos_vagrant-salt-demo
+	url = https://github.com/keshavos/vagrant-salt-demo.git
+[submodule "apowers_salt-minecraft-server"]
+	path = apowers_salt-minecraft-server
+	url = https://github.com/apowers/salt-minecraft-server.git
+[submodule "ctrlaltdel_puppet-salt"]
+	path = ctrlaltdel_puppet-salt
+	url = https://github.com/ctrlaltdel/puppet-salt.git
+[submodule "unicolet_mappu-deploy-tooling"]
+	path = unicolet_mappu-deploy-tooling
+	url = https://github.com/unicolet/mappu-deploy-tooling.git
+[submodule "skurtzemann_salt-config"]
+	path = skurtzemann_salt-config
+	url = https://github.com/skurtzemann/salt-config.git
+[submodule "knight-zhou_saltstack"]
+	path = knight-zhou_saltstack
+	url = https://github.com/knight-zhou/saltstack.git
+[submodule "p0bailey_puppet_saltstack"]
+	path = p0bailey_puppet_saltstack
+	url = https://github.com/p0bailey/puppet_saltstack.git
+[submodule "wunki_django-salted"]
+	path = wunki_django-salted
+	url = https://github.com/wunki/django-salted.git
+[submodule "slyadmin_saltstack"]
+	path = slyadmin_saltstack
+	url = https://github.com/slyadmin/saltstack.git
+[submodule "ligser_salt-vagrant-demostand"]
+	path = ligser_salt-vagrant-demostand
+	url = https://github.com/ligser/salt-vagrant-demostand.git
+[submodule "magmax_salt-example"]
+	path = magmax_salt-example
+	url = https://github.com/magmax/salt-example.git
+[submodule "mysencare_salt-stack"]
+	path = mysencare_salt-stack
+	url = https://github.com/mysencare/salt-stack.git
+[submodule "morlandi_stack_basic"]
+	path = morlandi_stack_basic
+	url = https://github.com/morlandi/stack_basic.git
+[submodule "rcludwick_django-saltstack"]
+	path = rcludwick_django-saltstack
+	url = https://github.com/rcludwick/django-saltstack.git
+[submodule "majerteam_samba_report_module"]
+	path = majerteam_samba_report_module
+	url = https://github.com/majerteam/samba_report_module.git
+[submodule "mrmakeit_saltstack"]
+	path = mrmakeit_saltstack
+	url = https://github.com/mrmakeit/saltstack.git
+[submodule "samiru_vagrant-php-development-box"]
+	path = samiru_vagrant-php-development-box
+	url = https://github.com/samiru/vagrant-php-development-box.git
+[submodule "hhsnopek_salty-carrots"]
+	path = hhsnopek_salty-carrots
+	url = https://github.com/hhsnopek/salty-carrots.git
+[submodule "WJIAN_sysinfo"]
+	path = WJIAN_sysinfo
+	url = https://github.com/WJIAN/sysinfo.git
+[submodule "scristian_salt-states"]
+	path = scristian_salt-states
+	url = https://github.com/scristian/salt-states.git
+[submodule "ist0ne_salt-states"]
+	path = ist0ne_salt-states
+	url = https://github.com/ist0ne/salt-states.git
+[submodule "mpurdon_saltstack"]
+	path = mpurdon_saltstack
+	url = https://github.com/mpurdon/saltstack.git
+[submodule "elbaschid_MelbDjango_SaltStack"]
+	path = elbaschid_MelbDjango_SaltStack
+	url = https://github.com/elbaschid/MelbDjango_SaltStack.git
+[submodule "h4ck3rm1k3_salt-formulas"]
+	path = h4ck3rm1k3_salt-formulas
+	url = https://github.com/h4ck3rm1k3/salt-formulas.git
+[submodule "packeteer_saltstack"]
+	path = packeteer_saltstack
+	url = https://github.com/packeteer/saltstack.git
+[submodule "publysher_wheezy64-salt"]
+	path = publysher_wheezy64-salt
+	url = https://github.com/publysher/wheezy64-salt.git
+[submodule "shepax_sqlserver_saltstack"]
+	path = shepax_sqlserver_saltstack
+	url = https://github.com/shepax/sqlserver_saltstack.git
+[submodule "crlane_salty-vagrant-python"]
+	path = crlane_salty-vagrant-python
+	url = https://github.com/crlane/salty-vagrant-python.git
+[submodule "dkilcy_juno-saltstack"]
+	path = dkilcy_juno-saltstack
+	url = https://github.com/dkilcy/juno-saltstack.git
+[submodule "sald19_load-Balancing-vagrant-saltstack"]
+	path = sald19_load-Balancing-vagrant-saltstack
+	url = https://github.com/sald19/load-Balancing-vagrant-saltstack.git
+[submodule "mrasskazov_sls"]
+	path = mrasskazov_sls
+	url = https://github.com/mrasskazov/sls.git
+[submodule "russellballestrini_egg"]
+	path = russellballestrini_egg
+	url = https://github.com/russellballestrini/egg.git
+[submodule "saltstackme_salt-sandbox"]
+	path = saltstackme_salt-sandbox
+	url = https://github.com/saltstackme/salt-sandbox.git
+[submodule "timoguin_saltstack-dev-env"]
+	path = timoguin_saltstack-dev-env
+	url = https://github.com/timoguin/saltstack-dev-env.git
+[submodule "mjgorman_salinity"]
+	path = mjgorman_salinity
+	url = https://github.com/mjgorman/salinity.git
+[submodule "paul91_puppet-salt"]
+	path = paul91_puppet-salt
+	url = https://github.com/paul91/puppet-salt.git
+[submodule "matthew-parlette_enterprise-storage-formula"]
+	path = matthew-parlette_enterprise-storage-formula
+	url = https://github.com/matthew-parlette/enterprise-storage-formula.git
+[submodule "jasondenning_salt-pillar-dynamo"]
+	path = jasondenning_salt-pillar-dynamo
+	url = https://github.com/jasondenning/salt-pillar-dynamo.git
+[submodule "r8_salt-devenv"]
+	path = r8_salt-devenv
+	url = https://github.com/r8/salt-devenv.git
+[submodule "stuart-warren_saltstack-states-test"]
+	path = stuart-warren_saltstack-states-test
+	url = https://github.com/stuart-warren/saltstack-states-test.git
+[submodule "oba11_salt-nfs"]
+	path = oba11_salt-nfs
+	url = https://github.com/oba11/salt-nfs.git
+[submodule "terminalmage_djangocon2013-sls"]
+	path = terminalmage_djangocon2013-sls
+	url = https://github.com/terminalmage/djangocon2013-sls.git
+[submodule "gladiatr72_pyOvirt"]
+	path = gladiatr72_pyOvirt
+	url = https://github.com/gladiatr72/pyOvirt.git
+[submodule "ikr_php-libs-dev"]
+	path = ikr_php-libs-dev
+	url = https://github.com/ikr/php-libs-dev.git
+[submodule "jahkeup_salt-docset"]
+	path = jahkeup_salt-docset
+	url = https://github.com/jahkeup/salt-docset.git
+[submodule "yumike_pycon2013"]
+	path = yumike_pycon2013
+	url = https://github.com/yumike/pycon2013.git
+[submodule "markahopper_demo"]
+	path = markahopper_demo
+	url = https://github.com/markahopper/demo.git
+[submodule "ldidry_slides_salt"]
+	path = ldidry_slides_salt
+	url = https://github.com/ldidry/slides_salt.git
+[submodule "hocchudong_saltstack-VN"]
+	path = hocchudong_saltstack-VN
+	url = https://github.com/hocchudong/saltstack-VN.git
+[submodule "nmadhok_wordpress-formula"]
+	path = nmadhok_wordpress-formula
+	url = https://github.com/nmadhok/wordpress-formula.git
+[submodule "mshmsh5000_logstash-salt"]
+	path = mshmsh5000_logstash-salt
+	url = https://github.com/mshmsh5000/logstash-salt.git
+[submodule "nip3o_salt-lynx"]
+	path = nip3o_salt-lynx
+	url = https://github.com/nip3o/salt-lynx.git
+[submodule "diegows_accumulo-saltstack-pillar"]
+	path = diegows_accumulo-saltstack-pillar
+	url = https://github.com/diegows/accumulo-saltstack-pillar.git
+[submodule "zten_saltstack-pillars"]
+	path = zten_saltstack-pillars
+	url = https://github.com/zten/saltstack-pillars.git
+[submodule "calebcase_zero-to-7zip"]
+	path = calebcase_zero-to-7zip
+	url = https://github.com/calebcase/zero-to-7zip.git
+[submodule "nicocoffo_salty-dot"]
+	path = nicocoffo_salty-dot
+	url = https://github.com/nicocoffo/salty-dot.git
+[submodule "wwwouter_getting-started-saltstack"]
+	path = wwwouter_getting-started-saltstack
+	url = https://github.com/wwwouter/getting-started-saltstack.git
+[submodule "creomatic_pillars"]
+	path = creomatic_pillars
+	url = https://github.com/creomatic/pillars.git
+[submodule "larsbijl_saltstack_vfx"]
+	path = larsbijl_saltstack_vfx
+	url = https://github.com/larsbijl/saltstack_vfx.git
+[submodule "xstevens_salty-vagrant"]
+	path = xstevens_salty-vagrant
+	url = https://github.com/xstevens/salty-vagrant.git
+[submodule "shterrel_Salt-Stack"]
+	path = shterrel_Salt-Stack
+	url = https://github.com/shterrel/Salt-Stack.git
+[submodule "vnlinux_saltstack"]
+	path = vnlinux_saltstack
+	url = https://github.com/vnlinux/saltstack.git
+[submodule "gajdipajti_salt-lampdemo"]
+	path = gajdipajti_salt-lampdemo
+	url = https://github.com/gajdipajti/salt-lampdemo.git
+[submodule "MadeiraCloud_salt"]
+	path = MadeiraCloud_salt
+	url = https://github.com/MadeiraCloud/salt.git
+[submodule "lustlost_saltstack-api-Flask"]
+	path = lustlost_saltstack-api-Flask
+	url = https://github.com/lustlost/saltstack-api-Flask.git
+[submodule "JonGretar_language-salt"]
+	path = JonGretar_language-salt
+	url = https://github.com/JonGretar/language-salt.git
+[submodule "sdouche_atelier-saltstack"]
+	path = sdouche_atelier-saltstack
+	url = https://github.com/sdouche/atelier-saltstack.git
+[submodule "thedrow_python-baseline"]
+	path = thedrow_python-baseline
+	url = https://github.com/thedrow/python-baseline.git
+[submodule "didlich_salt-ror"]
+	path = didlich_salt-ror
+	url = https://github.com/didlich/salt-ror.git
+[submodule "harkx_saltstack-cheatsheet"]
+	path = harkx_saltstack-cheatsheet
+	url = https://github.com/harkx/saltstack-cheatsheet.git
+[submodule "eHealthAfrica_demo-app"]
+	path = eHealthAfrica_demo-app
+	url = https://github.com/eHealthAfrica/demo-app.git
+[submodule "gl1ch_salt-relational"]
+	path = gl1ch_salt-relational
+	url = https://github.com/gl1ch/salt-relational.git
+[submodule "SUSE_saltstack-netapi-client-java"]
+	path = SUSE_saltstack-netapi-client-java
+	url = https://github.com/SUSE/saltstack-netapi-client-java.git
+[submodule "simonmcc_kitchen-salt"]
+	path = simonmcc_kitchen-salt
+	url = https://github.com/simonmcc/kitchen-salt.git
+[submodule "skottler_configuration-management-demo"]
+	path = skottler_configuration-management-demo
+	url = https://github.com/skottler/configuration-management-demo.git
+[submodule "mparker1001_loadtester-salt"]
+	path = mparker1001_loadtester-salt
+	url = https://github.com/mparker1001/loadtester-salt.git
+[submodule "renoirb_saltyvagrant-lampstack"]
+	path = renoirb_saltyvagrant-lampstack
+	url = https://github.com/renoirb/saltyvagrant-lampstack.git
+[submodule "ythuang_salt"]
+	path = ythuang_salt
+	url = https://github.com/ythuang/salt.git
+[submodule "nanopils_chat-cast"]
+	path = nanopils_chat-cast
+	url = https://github.com/nanopils/chat-cast.git
+[submodule "mortis1337_salt-dash"]
+	path = mortis1337_salt-dash
+	url = https://github.com/mortis1337/salt-dash.git
+[submodule "allanparsons_salt-couchbase"]
+	path = allanparsons_salt-couchbase
+	url = https://github.com/allanparsons/salt-couchbase.git
+[submodule "Grokzen_salty-windows"]
+	path = Grokzen_salty-windows
+	url = https://github.com/Grokzen/salty-windows.git
+[submodule "dkilcy_icehouse-saltstack"]
+	path = dkilcy_icehouse-saltstack
+	url = https://github.com/dkilcy/icehouse-saltstack.git
+[submodule "uncmike2005_saltstack"]
+	path = uncmike2005_saltstack
+	url = https://github.com/uncmike2005/saltstack.git
+[submodule "kevinbayes_saltstack-toolbox"]
+	path = kevinbayes_saltstack-toolbox
+	url = https://github.com/kevinbayes/saltstack-toolbox.git
+[submodule "jacksoncage_salt-docker"]
+	path = jacksoncage_salt-docker
+	url = https://github.com/jacksoncage/salt-docker.git
+[submodule "eughenio_vagrant-saltstack-lemp"]
+	path = eughenio_vagrant-saltstack-lemp
+	url = https://github.com/eughenio/vagrant-saltstack-lemp.git
+[submodule "opennode_opennode-salt"]
+	path = opennode_opennode-salt
+	url = https://github.com/opennode/opennode-salt.git
+[submodule "moreda_saltstack-vagrant-sandbox"]
+	path = moreda_saltstack-vagrant-sandbox
+	url = https://github.com/moreda/saltstack-vagrant-sandbox.git
+[submodule "saltops_saltmine"]
+	path = saltops_saltmine
+	url = https://github.com/saltops/saltmine.git
+[submodule "geopet_red-tide-hobo-surfer"]
+	path = geopet_red-tide-hobo-surfer
+	url = https://github.com/geopet/red-tide-hobo-surfer.git
+[submodule "eddiejaoude_jenkins-vagrant-saltstack"]
+	path = eddiejaoude_jenkins-vagrant-saltstack
+	url = https://github.com/eddiejaoude/jenkins-vagrant-saltstack.git
+[submodule "mirath_django_testa"]
+	path = mirath_django_testa
+	url = https://github.com/mirath/django_testa.git
+[submodule "jianingy_nby-desktop"]
+	path = jianingy_nby-desktop
+	url = https://github.com/jianingy/nby-desktop.git
+[submodule "JasonSwindle_mom"]
+	path = JasonSwindle_mom
+	url = https://github.com/JasonSwindle/mom.git
+[submodule "coregear_salt-cntv"]
+	path = coregear_salt-cntv
+	url = https://github.com/coregear/salt-cntv.git
+[submodule "kstaken_salt-test-vagrant"]
+	path = kstaken_salt-test-vagrant
+	url = https://github.com/kstaken/salt-test-vagrant.git
+[submodule "paprockiw_swipe-salt"]
+	path = paprockiw_swipe-salt
+	url = https://github.com/paprockiw/swipe-salt.git
+[submodule "Korrigan_pepperstack"]
+	path = Korrigan_pepperstack
+	url = https://github.com/Korrigan/pepperstack.git
+[submodule "oopss_oopss-infra"]
+	path = oopss_oopss-infra
+	url = https://github.com/oopss/oopss-infra.git
+[submodule "iluminite_salty-experiments"]
+	path = iluminite_salty-experiments
+	url = https://github.com/iluminite/salty-experiments.git
+[submodule "kstaken_salt-admin"]
+	path = kstaken_salt-admin
+	url = https://github.com/kstaken/salt-admin.git
+[submodule "cloud-ee_ceph-salt-formula"]
+	path = cloud-ee_ceph-salt-formula
+	url = https://github.com/cloud-ee/ceph-salt-formula.git
+[submodule "liyichao_docker-saltstack"]
+	path = liyichao_docker-saltstack
+	url = https://github.com/liyichao/docker-saltstack.git
+[submodule "mutagendev_lemp-formula"]
+	path = mutagendev_lemp-formula
+	url = https://github.com/mutagendev/lemp-formula.git
+[submodule "lindblom_node-mongodb-vagrant-saltstack"]
+	path = lindblom_node-mongodb-vagrant-saltstack
+	url = https://github.com/lindblom/node-mongodb-vagrant-saltstack.git
+[submodule "crazyunix_salt"]
+	path = crazyunix_salt
+	url = https://github.com/crazyunix/salt.git
+[submodule "trebuchet-deploy_trebuchet"]
+	path = trebuchet-deploy_trebuchet
+	url = https://github.com/trebuchet-deploy/trebuchet.git
+[submodule "stefhen_salt-states"]
+	path = stefhen_salt-states
+	url = https://github.com/stefhen/salt-states.git
+[submodule "d0m0reg00dthing_openstack-salstack"]
+	path = d0m0reg00dthing_openstack-salstack
+	url = https://github.com/d0m0reg00dthing/openstack-salstack.git
+[submodule "paulehr_saltstack-wordpress"]
+	path = paulehr_saltstack-wordpress
+	url = https://github.com/paulehr/saltstack-wordpress.git
+[submodule "unixhot_saltstack-openstack"]
+	path = unixhot_saltstack-openstack
+	url = https://github.com/unixhot/saltstack-openstack.git
+[submodule "creomatic_states"]
+	path = creomatic_states
+	url = https://github.com/creomatic/states.git
+[submodule "jmagnusson_saltyamltest"]
+	path = jmagnusson_saltyamltest
+	url = https://github.com/jmagnusson/saltyamltest.git
+[submodule "daviddyball_salt"]
+	path = daviddyball_salt
+	url = https://github.com/daviddyball/salt.git
+[submodule "ogrisel_cardice"]
+	path = ogrisel_cardice
+	url = https://github.com/ogrisel/cardice.git
+[submodule "lugensa_bo_salt"]
+	path = lugensa_bo_salt
+	url = https://github.com/lugensa/bo_salt.git
+[submodule "stackstrap_stackstrap-salt"]
+	path = stackstrap_stackstrap-salt
+	url = https://github.com/stackstrap/stackstrap-salt.git
+[submodule "sdouche_presentation-saltstack"]
+	path = sdouche_presentation-saltstack
+	url = https://github.com/sdouche/presentation-saltstack.git
+[submodule "johnswanson_nginx-proxy-formula"]
+	path = johnswanson_nginx-proxy-formula
+	url = https://github.com/johnswanson/nginx-proxy-formula.git
+[submodule "pgexperts_saltstack-talk-examples"]
+	path = pgexperts_saltstack-talk-examples
+	url = https://github.com/pgexperts/saltstack-talk-examples.git
+[submodule "marselester_salt-stack-example"]
+	path = marselester_salt-stack-example
+	url = https://github.com/marselester/salt-stack-example.git
+[submodule "nasqueron_operations"]
+	path = nasqueron_operations
+	url = https://github.com/nasqueron/operations.git
+[submodule "VertigoRay_salt-osx-grains"]
+	path = VertigoRay_salt-osx-grains
+	url = https://github.com/VertigoRay/salt-osx-grains.git
+[submodule "medcl_salt-elasticsearch"]
+	path = medcl_salt-elasticsearch
+	url = https://github.com/medcl/salt-elasticsearch.git
+[submodule "nfp-projects_salt-states"]
+	path = nfp-projects_salt-states
+	url = https://github.com/nfp-projects/salt-states.git
+[submodule "jason-riddle_salt-states"]
+	path = jason-riddle_salt-states
+	url = https://github.com/jason-riddle/salt-states.git
+[submodule "szylinux_salt"]
+	path = szylinux_salt
+	url = https://github.com/szylinux/salt.git
+[submodule "roblayton_masterless-salt-vagrant"]
+	path = roblayton_masterless-salt-vagrant
+	url = https://github.com/roblayton/masterless-salt-vagrant.git
+[submodule "pengyao_salt-broker"]
+	path = pengyao_salt-broker
+	url = https://github.com/pengyao/salt-broker.git
+[submodule "ephillipe_saltstack-alterdata"]
+	path = ephillipe_saltstack-alterdata
+	url = https://github.com/ephillipe/saltstack-alterdata.git
+[submodule "hunternet93_Salt-Manager"]
+	path = hunternet93_Salt-Manager
+	url = https://github.com/hunternet93/Salt-Manager.git
+[submodule "pgtrex_salty_vagrant"]
+	path = pgtrex_salty_vagrant
+	url = https://github.com/pgtrex/salty_vagrant.git
+[submodule "pklovsjo_my-salt-dev"]
+	path = pklovsjo_my-salt-dev
+	url = https://github.com/pklovsjo/my-salt-dev.git
+[submodule "kstaken_salt-nodejs-mongo-example"]
+	path = kstaken_salt-nodejs-mongo-example
+	url = https://github.com/kstaken/salt-nodejs-mongo-example.git
+[submodule "StephenPCG_vim-snippets-salt"]
+	path = StephenPCG_vim-snippets-salt
+	url = https://github.com/StephenPCG/vim-snippets-salt.git
+[submodule "saltstack_lattice"]
+	path = saltstack_lattice
+	url = https://github.com/saltstack/lattice.git
+[submodule "crackcomm_salt-states"]
+	path = crackcomm_salt-states
+	url = https://github.com/crackcomm/salt-states.git
+[submodule "rauluranga_VagrantTest"]
+	path = rauluranga_VagrantTest
+	url = https://github.com/rauluranga/VagrantTest.git
+[submodule "syphernl_salt-dashboard"]
+	path = syphernl_salt-dashboard
+	url = https://github.com/syphernl/salt-dashboard.git
+[submodule "retr0h_salty-stack"]
+	path = retr0h_salty-stack
+	url = https://github.com/retr0h/salty-stack.git
+[submodule "EntropyWorks_salt_simple_stack"]
+	path = EntropyWorks_salt_simple_stack
+	url = https://github.com/EntropyWorks/salt_simple_stack.git
+[submodule "RealMassive_realmassive-salt"]
+	path = RealMassive_realmassive-salt
+	url = https://github.com/RealMassive/realmassive-salt.git
+[submodule "zen4ever_salty-wsgi"]
+	path = zen4ever_salty-wsgi
+	url = https://github.com/zen4ever/salty-wsgi.git
+[submodule "logickal_vagrant-salt-drupal"]
+	path = logickal_vagrant-salt-drupal
+	url = https://github.com/logickal/vagrant-salt-drupal.git
+[submodule "qw1mb0_saltstack"]
+	path = qw1mb0_saltstack
+	url = https://github.com/qw1mb0/saltstack.git
+[submodule "mattnorris_grain"]
+	path = mattnorris_grain
+	url = https://github.com/mattnorris/grain.git
+[submodule "eddiejaoude_saltstack"]
+	path = eddiejaoude_saltstack
+	url = https://github.com/eddiejaoude/saltstack.git
+[submodule "digibib_saltdeploy"]
+	path = digibib_saltdeploy
+	url = https://github.com/digibib/saltdeploy.git
+[submodule "Exodus_mppee-salt"]
+	path = Exodus_mppee-salt
+	url = https://github.com/Exodus/mppee-salt.git
+[submodule "mickep76_pepa"]
+	path = mickep76_pepa
+	url = https://github.com/mickep76/pepa.git
+[submodule "smlloyd_saltstack-kerberos-formula"]
+	path = smlloyd_saltstack-kerberos-formula
+	url = https://github.com/smlloyd/saltstack-kerberos-formula.git
+[submodule "iamseth_librarian-salt"]
+	path = iamseth_librarian-salt
+	url = https://github.com/iamseth/librarian-salt.git
+[submodule "dzderic_salt-in-the-middle"]
+	path = dzderic_salt-in-the-middle
+	url = https://github.com/dzderic/salt-in-the-middle.git
+[submodule "jnrain_salt-conf"]
+	path = jnrain_salt-conf
+	url = https://github.com/jnrain/salt-conf.git
+[submodule "Walkeryr_server_config"]
+	path = Walkeryr_server_config
+	url = https://github.com/Walkeryr/server_config.git
+[submodule "jlecount-sungevity_devsetup"]
+	path = jlecount-sungevity_devsetup
+	url = https://github.com/jlecount-sungevity/devsetup.git
+[submodule "hvnsweeting_saltvimplus"]
+	path = hvnsweeting_saltvimplus
+	url = https://github.com/hvnsweeting/saltvimplus.git
+[submodule "msabramo_homebrew-saltstack"]
+	path = msabramo_homebrew-saltstack
+	url = https://github.com/msabramo/homebrew-saltstack.git
+[submodule "FabienSalles_resume"]
+	path = FabienSalles_resume
+	url = https://github.com/FabienSalles/resume.git
+[submodule "sandroBeffa_saltDemo"]
+	path = sandroBeffa_saltDemo
+	url = https://github.com/sandroBeffa/saltDemo.git
+[submodule "hosiukeung_saltstack-playground"]
+	path = hosiukeung_saltstack-playground
+	url = https://github.com/hosiukeung/saltstack-playground.git
+[submodule "xiala_salt-state-tt-rss"]
+	path = xiala_salt-state-tt-rss
+	url = https://github.com/xiala/salt-state-tt-rss.git
+[submodule "matthew-parlette_salt-andromeda"]
+	path = matthew-parlette_salt-andromeda
+	url = https://github.com/matthew-parlette/salt-andromeda.git
+[submodule "sqrrldata_sqrrl-salt-pillar"]
+	path = sqrrldata_sqrrl-salt-pillar
+	url = https://github.com/sqrrldata/sqrrl-salt-pillar.git
+[submodule "jasondenning_SaltMessenger"]
+	path = jasondenning_SaltMessenger
+	url = https://github.com/jasondenning/SaltMessenger.git
+[submodule "ozgurakan_python4saltstack"]
+	path = ozgurakan_python4saltstack
+	url = https://github.com/ozgurakan/python4saltstack.git
+[submodule "vladimir-vovk_dev-env-up"]
+	path = vladimir-vovk_dev-env-up
+	url = https://github.com/vladimir-vovk/dev-env-up.git
+[submodule "mlk007_salt-docker"]
+	path = mlk007_salt-docker
+	url = https://github.com/mlk007/salt-docker.git
+[submodule "cloud-ee_libvirt-salt-formula"]
+	path = cloud-ee_libvirt-salt-formula
+	url = https://github.com/cloud-ee/libvirt-salt-formula.git
+[submodule "raizyr_saltstack"]
+	path = raizyr_saltstack
+	url = https://github.com/raizyr/saltstack.git
+[submodule "individuwill_salt-mine"]
+	path = individuwill_salt-mine
+	url = https://github.com/individuwill/salt-mine.git
+[submodule "zignig_mini_master"]
+	path = zignig_mini_master
+	url = https://github.com/zignig/mini_master.git
+[submodule "moreda_zabbix-saltstack-set"]
+	path = moreda_zabbix-saltstack-set
+	url = https://github.com/moreda/zabbix-saltstack-set.git
+[submodule "urog_salt"]
+	path = urog_salt
+	url = https://github.com/urog/salt.git
+[submodule "jfelder_vagrant-saltstack"]
+	path = jfelder_vagrant-saltstack
+	url = https://github.com/jfelder/vagrant-saltstack.git
+[submodule "polliard_saltstack-openscap"]
+	path = polliard_saltstack-openscap
+	url = https://github.com/polliard/saltstack-openscap.git
+[submodule "madhousedevops_saltstack"]
+	path = madhousedevops_saltstack
+	url = https://github.com/madhousedevops/saltstack.git
+[submodule "hipikat_salt-pillars"]
+	path = hipikat_salt-pillars
+	url = https://github.com/hipikat/salt-pillars.git
+[submodule "felskrone_salt-eventsd"]
+	path = felskrone_salt-eventsd
+	url = https://github.com/felskrone/salt-eventsd.git
+[submodule "zombiemonkey_ebi"]
+	path = zombiemonkey_ebi
+	url = https://github.com/zombiemonkey/ebi.git
+[submodule "tinyclues_saltpad"]
+	path = tinyclues_saltpad
+	url = https://github.com/tinyclues/saltpad.git
+[submodule "halfss_salt-dashboard"]
+	path = halfss_salt-dashboard
+	url = https://github.com/halfss/salt-dashboard.git
+[submodule "Proigia_saltstack"]
+	path = Proigia_saltstack
+	url = https://github.com/Proigia/saltstack.git
+[submodule "stas_saltstack-slides-geekmeet"]
+	path = stas_saltstack-slides-geekmeet
+	url = https://github.com/stas/saltstack-slides-geekmeet.git
+[submodule "PEM--_VagrantSaltstackNginxSample"]
+	path = PEM--_VagrantSaltstackNginxSample
+	url = https://github.com/PEM--/VagrantSaltstackNginxSample.git
+[submodule "dzderic_chicken-salt"]
+	path = dzderic_chicken-salt
+	url = https://github.com/dzderic/chicken-salt.git
+[submodule "molossus-io_molossus-fs"]
+	path = molossus-io_molossus-fs
+	url = https://github.com/molossus-io/molossus-fs.git
+[submodule "microsea_Pillar-in-mongodb"]
+	path = microsea_Pillar-in-mongodb
+	url = https://github.com/microsea/Pillar-in-mongodb.git
+[submodule "makinacorpus_salt-project"]
+	path = makinacorpus_salt-project
+	url = https://github.com/makinacorpus/salt-project.git
+[submodule "jforcada_salt-django"]
+	path = jforcada_salt-django
+	url = https://github.com/jforcada/salt-django.git
+[submodule "ivonlee_saltstack"]
+	path = ivonlee_saltstack
+	url = https://github.com/ivonlee/saltstack.git
+[submodule "glomium_uwsgi-formula"]
+	path = glomium_uwsgi-formula
+	url = https://github.com/glomium/uwsgi-formula.git
+[submodule "dev-confidence_vagrant-saltstack"]
+	path = dev-confidence_vagrant-saltstack
+	url = https://github.com/dev-confidence/vagrant-saltstack.git
+[submodule "carrot_salty-carrots"]
+	path = carrot_salty-carrots
+	url = https://github.com/carrot/salty-carrots.git
+[submodule "rach_salt-states-wsgiapp"]
+	path = rach_salt-states-wsgiapp
+	url = https://github.com/rach/salt-states-wsgiapp.git
+[submodule "novapost_saltpad"]
+	path = novapost_saltpad
+	url = https://github.com/novapost/saltpad.git
+[submodule "hef_ps1salt"]
+	path = hef_ps1salt
+	url = https://github.com/hef/ps1salt.git
+[submodule "Vye_testing_salt_issue_9616"]
+	path = Vye_testing_salt_issue_9616
+	url = https://github.com/Vye/testing_salt_issue_9616.git
+[submodule "baseblack_salt-logstash_return"]
+	path = baseblack_salt-logstash_return
+	url = https://github.com/baseblack/salt-logstash_return.git
+[submodule "nicksergeant_media-server"]
+	path = nicksergeant_media-server
+	url = https://github.com/nicksergeant/media-server.git
+[submodule "moccamaster_saltstack-cgminer"]
+	path = moccamaster_saltstack-cgminer
+	url = https://github.com/moccamaster/saltstack-cgminer.git
+[submodule "oba11_salt-collectd"]
+	path = oba11_salt-collectd
+	url = https://github.com/oba11/salt-collectd.git
+[submodule "manishlad_salty-vagrant-template-web-project"]
+	path = manishlad_salty-vagrant-template-web-project
+	url = https://github.com/manishlad/salty-vagrant-template-web-project.git
+[submodule "ssekidde_salt-master"]
+	path = ssekidde_salt-master
+	url = https://github.com/ssekidde/salt-master.git
+[submodule "vespakoen_dev-machine"]
+	path = vespakoen_dev-machine
+	url = https://github.com/vespakoen/dev-machine.git
+[submodule "Psycojoker_dawdaw"]
+	path = Psycojoker_dawdaw
+	url = https://github.com/Psycojoker/dawdaw.git
+[submodule "gm100861_saltstack"]
+	path = gm100861_saltstack
+	url = https://github.com/gm100861/saltstack.git
+[submodule "saltstack_saltstack_org"]
+	path = saltstack_saltstack_org
+	url = https://github.com/saltstack/saltstack_org.git
+[submodule "oscm_saltstack"]
+	path = oscm_saltstack
+	url = https://github.com/oscm/saltstack.git
+[submodule "d0m0reg00dthing_saltstack"]
+	path = d0m0reg00dthing_saltstack
+	url = https://github.com/d0m0reg00dthing/saltstack.git
+[submodule "andersb73_salt-stack-aws-base"]
+	path = andersb73_salt-stack-aws-base
+	url = https://github.com/andersb73/salt-stack-aws-base.git
+[submodule "pebreo_salt-stack-demo"]
+	path = pebreo_salt-stack-demo
+	url = https://github.com/pebreo/salt-stack-demo.git
+[submodule "KrustyHack_salstack-metasploit-formula"]
+	path = KrustyHack_salstack-metasploit-formula
+	url = https://github.com/KrustyHack/salstack-metasploit-formula.git
+[submodule "githubcdr_salt-states"]
+	path = githubcdr_salt-states
+	url = https://github.com/githubcdr/salt-states.git
+[submodule "mas2df_saltiness"]
+	path = mas2df_saltiness
+	url = https://github.com/mas2df/saltiness.git
+[submodule "saltstack_salt-testing"]
+	path = saltstack_salt-testing
+	url = https://github.com/saltstack/salt-testing.git
+[submodule "rangertaha_salt-manager"]
+	path = rangertaha_salt-manager
+	url = https://github.com/rangertaha/salt-manager.git
+[submodule "conjurdemos_salt-stack-ssh"]
+	path = conjurdemos_salt-stack-ssh
+	url = https://github.com/conjurdemos/salt-stack-ssh.git
+[submodule "trilan_salt-states"]
+	path = trilan_salt-states
+	url = https://github.com/trilan/salt-states.git
+[submodule "polliard_saltstack-stig"]
+	path = polliard_saltstack-stig
+	url = https://github.com/polliard/saltstack-stig.git
+[submodule "rackspace-orchestration-templates_salt"]
+	path = rackspace-orchestration-templates_salt
+	url = https://github.com/rackspace-orchestration-templates/salt.git
+[submodule "unixhot_saltstack-cloudstack"]
+	path = unixhot_saltstack-cloudstack
+	url = https://github.com/unixhot/saltstack-cloudstack.git
+[submodule "Enrise_vhosting-formula"]
+	path = Enrise_vhosting-formula
+	url = https://github.com/Enrise/vhosting-formula.git
+[submodule "oko_oko-salt-modules"]
+	path = oko_oko-salt-modules
+	url = https://github.com/oko/oko-salt-modules.git
+[submodule "stackstrap_formula"]
+	path = stackstrap_formula
+	url = https://github.com/stackstrap/formula.git
+[submodule "ranl_salter"]
+	path = ranl_salter
+	url = https://github.com/ranl/salter.git
+[submodule "xtha_salt"]
+	path = xtha_salt
+	url = https://github.com/xtha/salt.git
+[submodule "stevage_saltymill"]
+	path = stevage_saltymill
+	url = https://github.com/stevage/saltymill.git
+[submodule "gladiatr72_chocolate-salty-balls"]
+	path = gladiatr72_chocolate-salty-balls
+	url = https://github.com/gladiatr72/chocolate-salty-balls.git
+[submodule "iamtew_kvickstart-saltstack"]
+	path = iamtew_kvickstart-saltstack
+	url = https://github.com/iamtew/kvickstart-saltstack.git
+[submodule "gajdipajti_saltstack-winrepo"]
+	path = gajdipajti_saltstack-winrepo
+	url = https://github.com/gajdipajti/saltstack-winrepo.git
+[submodule "h-xyl_salt-demo"]
+	path = h-xyl_salt-demo
+	url = https://github.com/h-xyl/salt-demo.git
+[submodule "panhaitao_saltstack-web"]
+	path = panhaitao_saltstack-web
+	url = https://github.com/panhaitao/saltstack-web.git
+[submodule "zheli_vagrant-tinc-master"]
+	path = zheli_vagrant-tinc-master
+	url = https://github.com/zheli/vagrant-tinc-master.git
+[submodule "scsinutz_salt-stack-sample-xio-rails-app"]
+	path = scsinutz_salt-stack-sample-xio-rails-app
+	url = https://github.com/scsinutz/salt-stack-sample-xio-rails-app.git
+[submodule "CSSCorp_openstack-automation"]
+	path = CSSCorp_openstack-automation
+	url = https://github.com/CSSCorp/openstack-automation.git
+[submodule "tekops_salt-stack-examples"]
+	path = tekops_salt-stack-examples
+	url = https://github.com/tekops/salt-stack-examples.git
+[submodule "LearnZillion_saltstack-reactor"]
+	path = LearnZillion_saltstack-reactor
+	url = https://github.com/LearnZillion/saltstack-reactor.git
+[submodule "novapost_saltstack_contributions"]
+	path = novapost_saltstack_contributions
+	url = https://github.com/novapost/saltstack_contributions.git
+[submodule "swdream_saltstack"]
+	path = swdream_saltstack
+	url = https://github.com/swdream/saltstack.git
+[submodule "yyf1986_saltstack"]
+	path = yyf1986_saltstack
+	url = https://github.com/yyf1986/saltstack.git
+[submodule "ecmanaged_saltstack"]
+	path = ecmanaged_saltstack
+	url = https://github.com/ecmanaged/saltstack.git
+[submodule "saltstack_atom-salt"]
+	path = saltstack_atom-salt
+	url = https://github.com/saltstack/atom-salt.git
+[submodule "denmat_saltstack_master"]
+	path = denmat_saltstack_master
+	url = https://github.com/denmat/saltstack_master.git
+[submodule "thinktainer_monobox"]
+	path = thinktainer_monobox
+	url = https://github.com/thinktainer/monobox.git
+[submodule "vdcit_SaltStack"]
+	path = vdcit_SaltStack
+	url = https://github.com/vdcit/SaltStack.git
+[submodule "mrwilson_salt-config"]
+	path = mrwilson_salt-config
+	url = https://github.com/mrwilson/salt-config.git
+[submodule "metatron-io_metatron-io-salt"]
+	path = metatron-io_metatron-io-salt
+	url = https://github.com/metatron-io/metatron-io-salt.git
+[submodule "devopsa_salt_config"]
+	path = devopsa_salt_config
+	url = https://github.com/devopsa/salt_config.git
+[submodule "PEM--_VagrantSaltstackRedmine"]
+	path = PEM--_VagrantSaltstackRedmine
+	url = https://github.com/PEM--/VagrantSaltstackRedmine.git
+[submodule "veeru538_salt"]
+	path = veeru538_salt
+	url = https://github.com/veeru538/salt.git
+[submodule "jamesbeedy_salt-web"]
+	path = jamesbeedy_salt-web
+	url = https://github.com/jamesbeedy/salt-web.git
+[submodule "calam1_salt-stack-example"]
+	path = calam1_salt-stack-example
+	url = https://github.com/calam1/salt-stack-example.git
+[submodule "cmalfait_SaltedOpenStack"]
+	path = cmalfait_SaltedOpenStack
+	url = https://github.com/cmalfait/SaltedOpenStack.git
+[submodule "william-du_SaltStack"]
+	path = william-du_SaltStack
+	url = https://github.com/william-du/SaltStack.git
+[submodule "keitheis_vim-salt"]
+	path = keitheis_vim-salt
+	url = https://github.com/keitheis/vim-salt.git
+[submodule "tanajiyadav_salt-stack"]
+	path = tanajiyadav_salt-stack
+	url = https://github.com/tanajiyadav/salt-stack.git
+[submodule "dhmsbr_salt-stack-config"]
+	path = dhmsbr_salt-stack-config
+	url = https://github.com/dhmsbr/salt-stack-config.git
+[submodule "mooperd_lustre-saltstack"]
+	path = mooperd_lustre-saltstack
+	url = https://github.com/mooperd/lustre-saltstack.git
+[submodule "stuartstein_old-salt-angular"]
+	path = stuartstein_old-salt-angular
+	url = https://github.com/stuartstein/old-salt-angular.git
+[submodule "nolar_vagrant-saltstack-docker-sample"]
+	path = nolar_vagrant-saltstack-docker-sample
+	url = https://github.com/nolar/vagrant-saltstack-docker-sample.git
+[submodule "fly_saltcfg"]
+	path = fly_saltcfg
+	url = https://github.com/fly/saltcfg.git
+[submodule "markkimsal_salt-web-stack"]
+	path = markkimsal_salt-web-stack
+	url = https://github.com/markkimsal/salt-web-stack.git
+[submodule "grischa_mytardis-salt"]
+	path = grischa_mytardis-salt
+	url = https://github.com/grischa/mytardis-salt.git
+[submodule "pgtrex_saltstack"]
+	path = pgtrex_saltstack
+	url = https://github.com/pgtrex/saltstack.git
+[submodule "hodgesarolin_saltstackdemo"]
+	path = hodgesarolin_saltstackdemo
+	url = https://github.com/hodgesarolin/saltstackdemo.git
+[submodule "jheretic_chambana-salt"]
+	path = jheretic_chambana-salt
+	url = https://github.com/jheretic/chambana-salt.git
+[submodule "ogrisel_my-linux-devbox"]
+	path = ogrisel_my-linux-devbox
+	url = https://github.com/ogrisel/my-linux-devbox.git
+[submodule "SUSE_spacewalk-saltstack"]
+	path = SUSE_spacewalk-saltstack
+	url = https://github.com/SUSE/spacewalk-saltstack.git
+[submodule "capKopper_docker-salt"]
+	path = capKopper_docker-salt
+	url = https://github.com/capKopper/docker-salt.git
+[submodule "luwenju_saltstack_module"]
+	path = luwenju_saltstack_module
+	url = https://github.com/luwenju/saltstack_module.git
+[submodule "diegotoral_rvm-formula"]
+	path = diegotoral_rvm-formula
+	url = https://github.com/diegotoral/rvm-formula.git
+[submodule "d1rk_salt"]
+	path = d1rk_salt
+	url = https://github.com/d1rk/salt.git
+[submodule "SmartReceipt_salt_state"]
+	path = SmartReceipt_salt_state
+	url = https://github.com/SmartReceipt/salt_state.git
+[submodule "makinacorpus_salt-state-shorewall"]
+	path = makinacorpus_salt-state-shorewall
+	url = https://github.com/makinacorpus/salt-state-shorewall.git
+[submodule "gmacaire_saltstack-masterless-template"]
+	path = gmacaire_saltstack-masterless-template
+	url = https://github.com/gmacaire/saltstack-masterless-template.git
+[submodule "mchugh19_jenkins-saltapi"]
+	path = mchugh19_jenkins-saltapi
+	url = https://github.com/mchugh19/jenkins-saltapi.git
+[submodule "corywright_salt-pillar-overlay-bug"]
+	path = corywright_salt-pillar-overlay-bug
+	url = https://github.com/corywright/salt-pillar-overlay-bug.git
+[submodule "dhmsbr_salt-stack-remedy"]
+	path = dhmsbr_salt-stack-remedy
+	url = https://github.com/dhmsbr/salt-stack-remedy.git
+[submodule "gajdipajti_saltstack-munin"]
+	path = gajdipajti_saltstack-munin
+	url = https://github.com/gajdipajti/saltstack-munin.git
+[submodule "toolhub_toolhub.co-saltstack"]
+	path = toolhub_toolhub.co-saltstack
+	url = https://github.com/toolhub/toolhub.co-saltstack.git
+[submodule "michaelcurry_vss-lemp-laravel"]
+	path = michaelcurry_vss-lemp-laravel
+	url = https://github.com/michaelcurry/vss-lemp-laravel.git
+[submodule "weijia_my_saltstack_state_root"]
+	path = weijia_my_saltstack_state_root
+	url = https://github.com/weijia/my_saltstack_state_root.git
+[submodule "davechina_SaltStack"]
+	path = davechina_SaltStack
+	url = https://github.com/davechina/SaltStack.git
+[submodule "ionutbalutoiu_salt-openstack"]
+	path = ionutbalutoiu_salt-openstack
+	url = https://github.com/ionutbalutoiu/salt-openstack.git
+[submodule "khopkins_salt-oracle"]
+	path = khopkins_salt-oracle
+	url = https://github.com/khopkins/salt-oracle.git
+[submodule "elbaschid_dockbot"]
+	path = elbaschid_dockbot
+	url = https://github.com/elbaschid/dockbot.git
+[submodule "flywheelnetworks_SaltStackDevwithPacker"]
+	path = flywheelnetworks_SaltStackDevwithPacker
+	url = https://github.com/flywheelnetworks/SaltStackDevwithPacker.git
+[submodule "martinb3_salt-repo"]
+	path = martinb3_salt-repo
+	url = https://github.com/martinb3/salt-repo.git
+[submodule "gslin_saltstack"]
+	path = gslin_saltstack
+	url = https://github.com/gslin/saltstack.git
+[submodule "light-saber_diskchecker-salt"]
+	path = light-saber_diskchecker-salt
+	url = https://github.com/light-saber/diskchecker-salt.git
+[submodule "cznewt_lamp-moodle-stack"]
+	path = cznewt_lamp-moodle-stack
+	url = https://github.com/cznewt/lamp-moodle-stack.git
+[submodule "FleetingClouds_SaltStackToolSet"]
+	path = FleetingClouds_SaltStackToolSet
+	url = https://github.com/FleetingClouds/SaltStackToolSet.git
+[submodule "mzdaniel_saltdemo"]
+	path = mzdaniel_saltdemo
+	url = https://github.com/mzdaniel/saltdemo.git
+[submodule "netkiller_mysql-saltstack-plugin"]
+	path = netkiller_mysql-saltstack-plugin
+	url = https://github.com/netkiller/mysql-saltstack-plugin.git
+[submodule "sphilippot_saltstack-install-centos6.5"]
+	path = sphilippot_saltstack-install-centos6.5
+	url = https://github.com/sphilippot/saltstack-install-centos6.5.git
+[submodule "stackstrap_stackstrap.github.io"]
+	path = stackstrap_stackstrap.github.io
+	url = https://github.com/stackstrap/stackstrap.github.io.git
+[submodule "iluminite_nebula"]
+	path = iluminite_nebula
+	url = https://github.com/iluminite/nebula.git
+[submodule "portaildulibre_saltstack"]
+	path = portaildulibre_saltstack
+	url = https://github.com/portaildulibre/saltstack.git
+[submodule "VertigoRay_salt-osx-dsconfigad"]
+	path = VertigoRay_salt-osx-dsconfigad
+	url = https://github.com/VertigoRay/salt-osx-dsconfigad.git
+[submodule "tateeskew_salt-sandbox-centos6"]
+	path = tateeskew_salt-sandbox-centos6
+	url = https://github.com/tateeskew/salt-sandbox-centos6.git
+[submodule "saurabhsurana_salt-stack-demo"]
+	path = saurabhsurana_salt-stack-demo
+	url = https://github.com/saurabhsurana/salt-stack-demo.git
+[submodule "accumulo_hadoop-salt"]
+	path = accumulo_hadoop-salt
+	url = https://github.com/accumulo/hadoop-salt.git
+[submodule "vitillo_energia-salt"]
+	path = vitillo_energia-salt
+	url = https://github.com/vitillo/energia-salt.git
+[submodule "p404_RVM-Ruby-formula"]
+	path = p404_RVM-Ruby-formula
+	url = https://github.com/p404/RVM-Ruby-formula.git
+[submodule "tonthon_salt-introduction"]
+	path = tonthon_salt-introduction
+	url = https://github.com/tonthon/salt-introduction.git
+[submodule "slang800_salty-ubuntu"]
+	path = slang800_salty-ubuntu
+	url = https://github.com/slang800/salty-ubuntu.git
+[submodule "jrporcaro_slurm-vagrant"]
+	path = jrporcaro_slurm-vagrant
+	url = https://github.com/jrporcaro/slurm-vagrant.git
