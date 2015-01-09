@@ -6,7 +6,7 @@ import os
 def check(fn):
     #print fn
     print fn
-    r = os.system("~/.local/bin/pylint -E --additional-builtins=__salt__,__opts__,__grains__,__pillar__ --msg-template='{path}:{line}: [{msg_id}({symbol}), {obj}] {msg}' %s" % fn)
+    r = os.system("~/.local/bin/pylint -E --rcfile=pylint.rc %s" % fn)
     if r not in (0, 512) : # 512= check failed
         raise Exception('fail %s'  % r)
     # f = open (fn)
