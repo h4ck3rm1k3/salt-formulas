@@ -26,7 +26,16 @@ skip = [
 
 keys = ("saltstack",
         "salt stack",
+        "salt-stack",
+        "salt-stack",
+        "salt module",
+        "salt pillar",
         "salt state",
+        'Halite',
+        'Salt-Master',
+        'Salt-Minion',
+        'Salt Master',
+        'Salt Minion',
         "salt formula",
 )
 

@@ -3757,3 +3757,459 @@
 [submodule "mamis_timezone-formula"]
 	path = mamis_timezone-formula
 	url = https://github.com/mamis/timezone-formula.git
+[submodule "fititnt_mod_showmd5salthash"]
+	path = fititnt_mod_showmd5salthash
+	url = https://github.com/fititnt/mod_showmd5salthash.git
+[submodule "Skookum_csrf"]
+	path = Skookum_csrf
+	url = https://github.com/Skookum/csrf.git
+[submodule "tdf_salt-pillar-base"]
+	path = tdf_salt-pillar-base
+	url = https://github.com/tdf/salt-pillar-base.git
+[submodule "ICMedia_salt-pillar"]
+	path = ICMedia_salt-pillar
+	url = https://github.com/ICMedia/salt-pillar.git
+[submodule "korpling_CoraXMLModules"]
+	path = korpling_CoraXMLModules
+	url = https://github.com/korpling/CoraXMLModules.git
+[submodule "lytics_saltfiles"]
+	path = lytics_saltfiles
+	url = https://github.com/lytics/saltfiles.git
+[submodule "ajw0100_saltvenv-pillar"]
+	path = ajw0100_saltvenv-pillar
+	url = https://github.com/ajw0100/saltvenv-pillar.git
+[submodule "mduttaroy-devops_vagrant-vm-salt-pillar"]
+	path = mduttaroy-devops_vagrant-vm-salt-pillar
+	url = https://github.com/mduttaroy-devops/vagrant-vm-salt-pillar.git
+[submodule "terminalmage_pillar-test"]
+	path = terminalmage_pillar-test
+	url = https://github.com/terminalmage/pillar-test.git
+[submodule "gtmtechltd_salthiera"]
+	path = gtmtechltd_salthiera
+	url = https://github.com/gtmtechltd/salthiera.git
+[submodule "florianheinemann_password-hash-and-salt"]
+	path = florianheinemann_password-hash-and-salt
+	url = https://github.com/florianheinemann/password-hash-and-salt.git
+[submodule "bibig_node-safepass"]
+	path = bibig_node-safepass
+	url = https://github.com/bibig/node-safepass.git
+[submodule "elasticdog_salt-sandbox"]
+	path = elasticdog_salt-sandbox
+	url = https://github.com/elasticdog/salt-sandbox.git
+[submodule "blast-hardcheese_salty-baseline"]
+	path = blast-hardcheese_salty-baseline
+	url = https://github.com/blast-hardcheese/salty-baseline.git
+[submodule "korpling_pepperModules-GenericXMLModules"]
+	path = korpling_pepperModules-GenericXMLModules
+	url = https://github.com/korpling/pepperModules-GenericXMLModules.git
+[submodule "djemos_SaLT-scripts-slackware"]
+	path = djemos_SaLT-scripts-slackware
+	url = https://github.com/djemos/SaLT-scripts-slackware.git
+[submodule "code42_saltball"]
+	path = code42_saltball
+	url = https://github.com/code42/saltball.git
+[submodule "lincolnloop_salt-stats"]
+	path = lincolnloop_salt-stats
+	url = https://github.com/lincolnloop/salt-stats.git
+[submodule "ranl_salt-pillar-linker"]
+	path = ranl_salt-pillar-linker
+	url = https://github.com/ranl/salt-pillar-linker.git
+[submodule "jasonmorganson_salt-bootstrap"]
+	path = jasonmorganson_salt-bootstrap
+	url = https://github.com/jasonmorganson/salt-bootstrap.git
+[submodule "sbailey_salt2"]
+	path = sbailey_salt2
+	url = https://github.com/sbailey/salt2.git
+[submodule "Wouterrr_A1"]
+	path = Wouterrr_A1
+	url = https://github.com/Wouterrr/A1.git
+[submodule "davepeck_salty-vagrant-pillar-question"]
+	path = davepeck_salty-vagrant-pillar-question
+	url = https://github.com/davepeck/salty-vagrant-pillar-question.git
+[submodule "cro_wireunlurk"]
+	path = cro_wireunlurk
+	url = https://github.com/cro/wireunlurk.git
+[submodule "seannaesmb_saltModuleInfoGUI"]
+	path = seannaesmb_saltModuleInfoGUI
+	url = https://github.com/seannaesmb/saltModuleInfoGUI.git
+[submodule "mmlj4_-SHA_HTTP_Auth"]
+	path = mmlj4_-SHA_HTTP_Auth
+	url = https://github.com/mmlj4/-SHA_HTTP_Auth.git
+[submodule "jzellner_edith"]
+	path = jzellner_edith
+	url = https://github.com/jzellner/edith.git
+[submodule "nfp-projects_salt-pillars"]
+	path = nfp-projects_salt-pillars
+	url = https://github.com/nfp-projects/salt-pillars.git
+[submodule "ogrisel_salt-ipcluster"]
+	path = ogrisel_salt-ipcluster
+	url = https://github.com/ogrisel/salt-ipcluster.git
+[submodule "saltstack_salt-qa"]
+	path = saltstack_salt-qa
+	url = https://github.com/saltstack/salt-qa.git
+[submodule "mosen_salt-osx"]
+	path = mosen_salt-osx
+	url = https://github.com/mosen/salt-osx.git
+[submodule "UtahDave_salt-pi"]
+	path = UtahDave_salt-pi
+	url = https://github.com/UtahDave/salt-pi.git
+[submodule "djemos_SaLT-scripts-slackware-salix"]
+	path = djemos_SaLT-scripts-slackware-salix
+	url = https://github.com/djemos/SaLT-scripts-slackware-salix.git
+[submodule "ewindisch_pam-dbauth"]
+	path = ewindisch_pam-dbauth
+	url = https://github.com/ewindisch/pam-dbauth.git
+[submodule "umeboshi2_paella-pillar"]
+	path = umeboshi2_paella-pillar
+	url = https://github.com/umeboshi2/paella-pillar.git
+[submodule "greghaynes_SaltPillar"]
+	path = greghaynes_SaltPillar
+	url = https://github.com/greghaynes/SaltPillar.git
+[submodule "michaelthe_saltiness"]
+	path = michaelthe_saltiness
+	url = https://github.com/michaelthe/saltiness.git
+[submodule "daoswald_Authen-Passphrase-SaltedSHA512"]
+	path = daoswald_Authen-Passphrase-SaltedSHA512
+	url = https://github.com/daoswald/Authen-Passphrase-SaltedSHA512.git
+[submodule "fly_pillars"]
+	path = fly_pillars
+	url = https://github.com/fly/pillars.git
+[submodule "rangertaha_node-salt-events"]
+	path = rangertaha_node-salt-events
+	url = https://github.com/rangertaha/node-salt-events.git
+[submodule "TheRealBill_salt-modules"]
+	path = TheRealBill_salt-modules
+	url = https://github.com/TheRealBill/salt-modules.git
+[submodule "jasonmorganson_salt-pillar"]
+	path = jasonmorganson_salt-pillar
+	url = https://github.com/jasonmorganson/salt-pillar.git
+[submodule "crasiak_pillar_files"]
+	path = crasiak_pillar_files
+	url = https://github.com/crasiak/pillar_files.git
+[submodule "maxchk_puppet-salt"]
+	path = maxchk_puppet-salt
+	url = https://github.com/maxchk/puppet-salt.git
+[submodule "pandemicsyn_salt-ipmi"]
+	path = pandemicsyn_salt-ipmi
+	url = https://github.com/pandemicsyn/salt-ipmi.git
+[submodule "TravisPaul_salt-modules"]
+	path = TravisPaul_salt-modules
+	url = https://github.com/TravisPaul/salt-modules.git
+[submodule "darylyu_salt-modules"]
+	path = darylyu_salt-modules
+	url = https://github.com/darylyu/salt-modules.git
+[submodule "furlongm_salt-pillar"]
+	path = furlongm_salt-pillar
+	url = https://github.com/furlongm/salt-pillar.git
+[submodule "worstadmin_salt-module-tcplisten"]
+	path = worstadmin_salt-module-tcplisten
+	url = https://github.com/worstadmin/salt-module-tcplisten.git
+[submodule "banks_sprig-auth"]
+	path = banks_sprig-auth
+	url = https://github.com/banks/sprig-auth.git
+[submodule "tairan_salt-pillar"]
+	path = tairan_salt-pillar
+	url = https://github.com/tairan/salt-pillar.git
+[submodule "kadel_salt-tools"]
+	path = kadel_salt-tools
+	url = https://github.com/kadel/salt-tools.git
+[submodule "ChoHag_atwan-salt-pillar"]
+	path = ChoHag_atwan-salt-pillar
+	url = https://github.com/ChoHag/atwan-salt-pillar.git
+[submodule "Salix-OS_SaLT-scripts"]
+	path = Salix-OS_SaLT-scripts
+	url = https://github.com/Salix-OS/SaLT-scripts.git
+[submodule "aboe76_puppet-salt"]
+	path = aboe76_puppet-salt
+	url = https://github.com/aboe76/puppet-salt.git
+[submodule "binocarlos_saltshaker"]
+	path = binocarlos_saltshaker
+	url = https://github.com/binocarlos/saltshaker.git
+[submodule "Develman_saltedhash-jaas-module"]
+	path = Develman_saltedhash-jaas-module
+	url = https://github.com/Develman/saltedhash-jaas-module.git
+[submodule "johnswanson_salt-modules"]
+	path = johnswanson_salt-modules
+	url = https://github.com/johnswanson/salt-modules.git
+[submodule "vpayno_puppet-salt"]
+	path = vpayno_puppet-salt
+	url = https://github.com/vpayno/puppet-salt.git
+[submodule "wbillingsley_salt-encrypt"]
+	path = wbillingsley_salt-encrypt
+	url = https://github.com/wbillingsley/salt-encrypt.git
+[submodule "korpling_pepperModules-TCFModules"]
+	path = korpling_pepperModules-TCFModules
+	url = https://github.com/korpling/pepperModules-TCFModules.git
+[submodule "bechtoldt_salt-modules"]
+	path = bechtoldt_salt-modules
+	url = https://github.com/bechtoldt/salt-modules.git
+[submodule "feth_pelican-salt"]
+	path = feth_pelican-salt
+	url = https://github.com/feth/pelican-salt.git
+[submodule "youngtrips_pam-mysql-salt"]
+	path = youngtrips_pam-mysql-salt
+	url = https://github.com/youngtrips/pam-mysql-salt.git
+[submodule "korpling_pepperModules-SaltInfoModules"]
+	path = korpling_pepperModules-SaltInfoModules
+	url = https://github.com/korpling/pepperModules-SaltInfoModules.git
+[submodule "drerik_docker-salt-masterless-ubuntu"]
+	path = drerik_docker-salt-masterless-ubuntu
+	url = https://github.com/drerik/docker-salt-masterless-ubuntu.git
+[submodule "nf3_vagrant-cent-salt"]
+	path = nf3_vagrant-cent-salt
+	url = https://github.com/nf3/vagrant-cent-salt.git
+[submodule "KrustyHack_docker-salt-master"]
+	path = KrustyHack_docker-salt-master
+	url = https://github.com/KrustyHack/docker-salt-master.git
+[submodule "moskitoli_halite"]
+	path = moskitoli_halite
+	url = https://github.com/moskitoli/halite.git
+[submodule "druonysus_salt-master"]
+	path = druonysus_salt-master
+	url = https://github.com/druonysus/salt-master.git
+[submodule "prehensile_halite"]
+	path = prehensile_halite
+	url = https://github.com/prehensile/halite.git
+[submodule "micahhausler_docker-saltminion"]
+	path = micahhausler_docker-saltminion
+	url = https://github.com/micahhausler/docker-saltminion.git
+[submodule "senhoreto_Guide-Salt"]
+	path = senhoreto_Guide-Salt
+	url = https://github.com/senhoreto/Guide-Salt.git
+[submodule "mjhennig_saltnode-setup"]
+	path = mjhennig_saltnode-setup
+	url = https://github.com/mjhennig/saltnode-setup.git
+[submodule "saltstack_halite"]
+	path = saltstack_halite
+	url = https://github.com/saltstack/halite.git
+[submodule "ev0rtex_salt-simple"]
+	path = ev0rtex_salt-simple
+	url = https://github.com/ev0rtex/salt-simple.git
+[submodule "bbinet_docker-salt-master"]
+	path = bbinet_docker-salt-master
+	url = https://github.com/bbinet/docker-salt-master.git
+[submodule "JioCloud_SALT_MINION-PSHELL"]
+	path = JioCloud_SALT_MINION-PSHELL
+	url = https://github.com/JioCloud/SALT_MINION-PSHELL.git
+[submodule "alex-leonhardt_docker-saltmaster"]
+	path = alex-leonhardt_docker-saltmaster
+	url = https://github.com/alex-leonhardt/docker-saltmaster.git
+[submodule "mduttaroy-devops_vagrant-vm-salt-openstack"]
+	path = mduttaroy-devops_vagrant-vm-salt-openstack
+	url = https://github.com/mduttaroy-devops/vagrant-vm-salt-openstack.git
+[submodule "jyennaco_cons3rt-salt-master-centos6"]
+	path = jyennaco_cons3rt-salt-master-centos6
+	url = https://github.com/jyennaco/cons3rt-salt-master-centos6.git
+[submodule "inceptus_Salt-Configuration"]
+	path = inceptus_Salt-Configuration
+	url = https://github.com/inceptus/Salt-Configuration.git
+[submodule "oisinmulvihill_handy-setups"]
+	path = oisinmulvihill_handy-setups
+	url = https://github.com/oisinmulvihill/handy-setups.git
+[submodule "mbrgm_docker-salt-master"]
+	path = mbrgm_docker-salt-master
+	url = https://github.com/mbrgm/docker-salt-master.git
+[submodule "3h4x_docker-saltwheezy"]
+	path = 3h4x_docker-saltwheezy
+	url = https://github.com/3h4x/docker-saltwheezy.git
+[submodule "ipmb_docker-salt-minion"]
+	path = ipmb_docker-salt-minion
+	url = https://github.com/ipmb/docker-salt-minion.git
+[submodule "terryjbates_vagrant_salt"]
+	path = terryjbates_vagrant_salt
+	url = https://github.com/terryjbates/vagrant_salt.git
+[submodule "toscanini_docker-salt-minion"]
+	path = toscanini_docker-salt-minion
+	url = https://github.com/toscanini/docker-salt-minion.git
+[submodule "pcrews_salt-data"]
+	path = pcrews_salt-data
+	url = https://github.com/pcrews/salt-data.git
+[submodule "dockU_salt-master"]
+	path = dockU_salt-master
+	url = https://github.com/dockU/salt-master.git
+[submodule "UfSoft_salgema"]
+	path = UfSoft_salgema
+	url = https://github.com/UfSoft/salgema.git
+[submodule "inthecloud247_kdocker-salt"]
+	path = inthecloud247_kdocker-salt
+	url = https://github.com/inthecloud247/kdocker-salt.git
+[submodule "emil79_masterless-salt-demo"]
+	path = emil79_masterless-salt-demo
+	url = https://github.com/emil79/masterless-salt-demo.git
+[submodule "debops_ansible-salt"]
+	path = debops_ansible-salt
+	url = https://github.com/debops/ansible-salt.git
+[submodule "prasadrao_vagrant_test"]
+	path = prasadrao_vagrant_test
+	url = https://github.com/prasadrao/vagrant_test.git
+[submodule "inthecloud247_salty-boto"]
+	path = inthecloud247_salty-boto
+	url = https://github.com/inthecloud247/salty-boto.git
+[submodule "s7726_salt-sandbox-win7"]
+	path = s7726_salt-sandbox-win7
+	url = https://github.com/s7726/salt-sandbox-win7.git
+[submodule "maci0_docker-salt-minion"]
+	path = maci0_docker-salt-minion
+	url = https://github.com/maci0/docker-salt-minion.git
+[submodule "Zuckerstar_salt-test"]
+	path = Zuckerstar_salt-test
+	url = https://github.com/Zuckerstar/salt-test.git
+[submodule "XKY_Halite-Korean"]
+	path = XKY_Halite-Korean
+	url = https://github.com/XKY/Halite-Korean.git
+[submodule "umeboshi2_masterless-salt-test"]
+	path = umeboshi2_masterless-salt-test
+	url = https://github.com/umeboshi2/masterless-salt-test.git
+[submodule "Scottm-Caktus_salt-master"]
+	path = Scottm-Caktus_salt-master
+	url = https://github.com/Scottm-Caktus/salt-master.git
+[submodule "mingfang_docker-salt"]
+	path = mingfang_docker-salt
+	url = https://github.com/mingfang/docker-salt.git
+[submodule "matthewpatterson_minions"]
+	path = matthewpatterson_minions
+	url = https://github.com/matthewpatterson/minions.git
+[submodule "3h4x_docker-saltjessie"]
+	path = 3h4x_docker-saltjessie
+	url = https://github.com/3h4x/docker-saltjessie.git
+[submodule "jyennaco_cons3rt-salt-minion-windows"]
+	path = jyennaco_cons3rt-salt-minion-windows
+	url = https://github.com/jyennaco/cons3rt-salt-minion-windows.git
+[submodule "druonysus_opensuse-base-minion"]
+	path = druonysus_opensuse-base-minion
+	url = https://github.com/druonysus/opensuse-base-minion.git
+[submodule "pass-by-value_halite-testing"]
+	path = pass-by-value_halite-testing
+	url = https://github.com/pass-by-value/halite-testing.git
+[submodule "thisissoon_Docker-Salt-Minion"]
+	path = thisissoon_Docker-Salt-Minion
+	url = https://github.com/thisissoon/Docker-Salt-Minion.git
+[submodule "nickcarenza_packer-provisioner-salt-minion"]
+	path = nickcarenza_packer-provisioner-salt-minion
+	url = https://github.com/nickcarenza/packer-provisioner-salt-minion.git
+[submodule "savoirfairelinux_pack-linux-saltmaster-collectd"]
+	path = savoirfairelinux_pack-linux-saltmaster-collectd
+	url = https://github.com/savoirfairelinux/pack-linux-saltmaster-collectd.git
+[submodule "stevendgonzales_dockerfile-salt-minion"]
+	path = stevendgonzales_dockerfile-salt-minion
+	url = https://github.com/stevendgonzales/dockerfile-salt-minion.git
+[submodule "highlyunavailable_salt-autobuild"]
+	path = highlyunavailable_salt-autobuild
+	url = https://github.com/highlyunavailable/salt-autobuild.git
+[submodule "hrabbit_vz-salt-base"]
+	path = hrabbit_vz-salt-base
+	url = https://github.com/hrabbit/vz-salt-base.git
+[submodule "grischa_venv-salt-master"]
+	path = grischa_venv-salt-master
+	url = https://github.com/grischa/venv-salt-master.git
+[submodule "Midacts_salt-minion"]
+	path = Midacts_salt-minion
+	url = https://github.com/Midacts/salt-minion.git
+[submodule "parhelium_hasher"]
+	path = parhelium_hasher
+	url = https://github.com/parhelium/hasher.git
+[submodule "cro_salt-proxy-rest"]
+	path = cro_salt-proxy-rest
+	url = https://github.com/cro/salt-proxy-rest.git
+[submodule "toscanini_docker-salt-master"]
+	path = toscanini_docker-salt-master
+	url = https://github.com/toscanini/docker-salt-master.git
+[submodule "BigglesZX_Vagrant-template"]
+	path = BigglesZX_Vagrant-template
+	url = https://github.com/BigglesZX/Vagrant-template.git
+[submodule "JioCloud_SALT-MINION-POWERSHELL"]
+	path = JioCloud_SALT-MINION-POWERSHELL
+	url = https://github.com/JioCloud/SALT-MINION-POWERSHELL.git
+[submodule "UtahDave_salt-vagrant-demo"]
+	path = UtahDave_salt-vagrant-demo
+	url = https://github.com/UtahDave/salt-vagrant-demo.git
+[submodule "WillPlatnick_check_salt_minions"]
+	path = WillPlatnick_check_salt_minions
+	url = https://github.com/WillPlatnick/check_salt_minions.git
+[submodule "thatch45_salt-alert"]
+	path = thatch45_salt-alert
+	url = https://github.com/thatch45/salt-alert.git
+[submodule "saltstack_salt-ui"]
+	path = saltstack_salt-ui
+	url = https://github.com/saltstack/salt-ui.git
+[submodule "akatrevorjay_docker-ubuntu-salt-minion"]
+	path = akatrevorjay_docker-ubuntu-salt-minion
+	url = https://github.com/akatrevorjay/docker-ubuntu-salt-minion.git
+[submodule "chrisduong_salt-minion"]
+	path = chrisduong_salt-minion
+	url = https://github.com/chrisduong/salt-minion.git
+[submodule "rubic_shaker"]
+	path = rubic_shaker
+	url = https://github.com/rubic/shaker.git
+[submodule "chrisduong_salt-master"]
+	path = chrisduong_salt-master
+	url = https://github.com/chrisduong/salt-master.git
+[submodule "shomodj_docker-salt-minion"]
+	path = shomodj_docker-salt-minion
+	url = https://github.com/shomodj/docker-salt-minion.git
+[submodule "savoirfairelinux_pack-linux-saltminion-collectd"]
+	path = savoirfairelinux_pack-linux-saltminion-collectd
+	url = https://github.com/savoirfairelinux/pack-linux-saltminion-collectd.git
+[submodule "mbrgm_docker-salt-master-base"]
+	path = mbrgm_docker-salt-master-base
+	url = https://github.com/mbrgm/docker-salt-master-base.git
+[submodule "jyennaco_cons3rt-salt-minion-centos6"]
+	path = jyennaco_cons3rt-salt-minion-centos6
+	url = https://github.com/jyennaco/cons3rt-salt-minion-centos6.git
+[submodule "LBaaS_salt-data"]
+	path = LBaaS_salt-data
+	url = https://github.com/LBaaS/salt-data.git
+[submodule "seanodonnell_vagrant-saltmaster"]
+	path = seanodonnell_vagrant-saltmaster
+	url = https://github.com/seanodonnell/vagrant-saltmaster.git
+[submodule "rallytime_salt-for-development"]
+	path = rallytime_salt-for-development
+	url = https://github.com/rallytime/salt-for-development.git
+[submodule "derekmurawsky_ChocolateySaltMinion"]
+	path = derekmurawsky_ChocolateySaltMinion
+	url = https://github.com/derekmurawsky/ChocolateySaltMinion.git
+[submodule "mariusv_docker-salt"]
+	path = mariusv_docker-salt
+	url = https://github.com/mariusv/docker-salt.git
+[submodule "wuxxin_salt-setup-template"]
+	path = wuxxin_salt-setup-template
+	url = https://github.com/wuxxin/salt-setup-template.git
+[submodule "david415_halite"]
+	path = david415_halite
+	url = https://github.com/david415/halite.git
+[submodule "jeremysalwen_HaliteClustering"]
+	path = jeremysalwen_HaliteClustering
+	url = https://github.com/jeremysalwen/HaliteClustering.git
+[submodule "mduttaroy-devops_vagrant-vm-salt-sandbox"]
+	path = mduttaroy-devops_vagrant-vm-salt-sandbox
+	url = https://github.com/mduttaroy-devops/vagrant-vm-salt-sandbox.git
+[submodule "Arbousier_salt-master-1"]
+	path = Arbousier_salt-master-1
+	url = https://github.com/Arbousier/salt-master-1.git
+[submodule "blbradley_vagrant-salt-masterless-boilerplate"]
+	path = blbradley_vagrant-salt-masterless-boilerplate
+	url = https://github.com/blbradley/vagrant-salt-masterless-boilerplate.git
+[submodule "kishanov_salt-playground"]
+	path = kishanov_salt-playground
+	url = https://github.com/kishanov/salt-playground.git
+[submodule "oksome_SaltMinion-docker"]
+	path = oksome_SaltMinion-docker
+	url = https://github.com/oksome/SaltMinion-docker.git
+[submodule "sitepoint_debian-cloud-salt-master"]
+	path = sitepoint_debian-cloud-salt-master
+	url = https://github.com/sitepoint/debian-cloud-salt-master.git
+[submodule "dzamkov_Halite"]
+	path = dzamkov_Halite
+	url = https://github.com/dzamkov/Halite.git
+[submodule "felixhummel_docker-salty-ubuntu"]
+	path = felixhummel_docker-salty-ubuntu
+	url = https://github.com/felixhummel/docker-salty-ubuntu.git
+[submodule "thisissoon_Docker-Salt-Master"]
+	path = thisissoon_Docker-Salt-Master
+	url = https://github.com/thisissoon/Docker-Salt-Master.git
+[submodule "JustinCarmony_vagrant-cloud"]
+	path = JustinCarmony_vagrant-cloud
+	url = https://github.com/JustinCarmony/vagrant-cloud.git
+[submodule "coderanger_halite"]
+	path = coderanger_halite
+	url = https://github.com/coderanger/halite.git
