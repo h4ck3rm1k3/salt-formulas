@@ -3742,3 +3742,18 @@
 [submodule "m87carlson_salt-states"]
 	path = m87carlson_salt-states
 	url = https://github.com/m87carlson/salt-states.git
+[submodule "mamis_openssh-formula"]
+	path = mamis_openssh-formula
+	url = https://github.com/mamis/openssh-formula.git
+[submodule "UGNS_salt-states"]
+	path = UGNS_salt-states
+	url = https://github.com/UGNS/salt-states.git
+[submodule "sillynet_sillynet-salt"]
+	path = sillynet_sillynet-salt
+	url = https://github.com/sillynet/sillynet-salt.git
+[submodule "ChoHag_atwan-salt-states"]
+	path = ChoHag_atwan-salt-states
+	url = https://github.com/ChoHag/atwan-salt-states.git
+[submodule "mamis_timezone-formula"]
+	path = mamis_timezone-formula
+	url = https://github.com/mamis/timezone-formula.git

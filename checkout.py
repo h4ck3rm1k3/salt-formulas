@@ -45,7 +45,7 @@ for l in repos.keys():
         if not os.path.exists(name):
 
             print 'missing', name
-            cmd = "git submodule add https://github.com/%s.git %s >> log.txt 2>&1" % (l, name)
+            cmd = "git submodule add --force https://github.com/%s.git %s >> log.txt 2>&1" % (l, name)
             o =  os.system(cmd)
             print "output",o, "command", cmd
             #assert o ==0
