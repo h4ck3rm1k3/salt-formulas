@@ -3235,3 +3235,510 @@
 [submodule "jrporcaro_slurm-vagrant"]
 	path = jrporcaro_slurm-vagrant
 	url = https://github.com/jrporcaro/slurm-vagrant.git
+[submodule "dpoirier_salt-states"]
+	path = dpoirier_salt-states
+	url = https://github.com/dpoirier/salt-states.git
+[submodule "mattmcclean_mmcclean-salt-config"]
+	path = mattmcclean_mmcclean-salt-config
+	url = https://github.com/mattmcclean/mmcclean-salt-config.git
+[submodule "dgilm_salt-states-alienvault"]
+	path = dgilm_salt-states-alienvault
+	url = https://github.com/dgilm/salt-states-alienvault.git
+[submodule "c-cooperjones_salt-states"]
+	path = c-cooperjones_salt-states
+	url = https://github.com/c-cooperjones/salt-states.git
+[submodule "SmartReceipt_salt_storm"]
+	path = SmartReceipt_salt_storm
+	url = https://github.com/SmartReceipt/salt_storm.git
+[submodule "Gohan_salt-state"]
+	path = Gohan_salt-state
+	url = https://github.com/Gohan/salt-state.git
+[submodule "psy-q_salt-states"]
+	path = psy-q_salt-states
+	url = https://github.com/psy-q/salt-states.git
+[submodule "bemson_salt"]
+	path = bemson_salt
+	url = https://github.com/bemson/salt.git
+[submodule "jollyroger_salt-states"]
+	path = jollyroger_salt-states
+	url = https://github.com/jollyroger/salt-states.git
+[submodule "rafamarangoni_salt-states"]
+	path = rafamarangoni_salt-states
+	url = https://github.com/rafamarangoni/salt-states.git
+[submodule "blast-hardcheese_blast-salt-states"]
+	path = blast-hardcheese_blast-salt-states
+	url = https://github.com/blast-hardcheese/blast-salt-states.git
+[submodule "mattmcclean_salt-openstack"]
+	path = mattmcclean_salt-openstack
+	url = https://github.com/mattmcclean/salt-openstack.git
+[submodule "Virtualmaster_ha-lamp-salt-states"]
+	path = Virtualmaster_ha-lamp-salt-states
+	url = https://github.com/Virtualmaster/ha-lamp-salt-states.git
+[submodule "wendall911_wendall911-salt-states"]
+	path = wendall911_wendall911-salt-states
+	url = https://github.com/wendall911/wendall911-salt-states.git
+[submodule "clausa_salt-logstash"]
+	path = clausa_salt-logstash
+	url = https://github.com/clausa/salt-logstash.git
+[submodule "jfchevrette_salt-states"]
+	path = jfchevrette_salt-states
+	url = https://github.com/jfchevrette/salt-states.git
+[submodule "jcu-eresearch_shared-salt-states"]
+	path = jcu-eresearch_shared-salt-states
+	url = https://github.com/jcu-eresearch/shared-salt-states.git
+[submodule "shomodj_salt-states"]
+	path = shomodj_salt-states
+	url = https://github.com/shomodj/salt-states.git
+[submodule "herlo_ssp-states"]
+	path = herlo_ssp-states
+	url = https://github.com/herlo/ssp-states.git
+[submodule "hqm_PBox"]
+	path = hqm_PBox
+	url = https://github.com/hqm/PBox.git
+[submodule "bl-mds_salt-states-lnmp54"]
+	path = bl-mds_salt-states-lnmp54
+	url = https://github.com/bl-mds/salt-states-lnmp54.git
+[submodule "SmartReceipt_salt_vim"]
+	path = SmartReceipt_salt_vim
+	url = https://github.com/SmartReceipt/salt_vim.git
+[submodule "jdivy_salt-states"]
+	path = jdivy_salt-states
+	url = https://github.com/jdivy/salt-states.git
+[submodule "gridcentric_ceph-salt-states"]
+	path = gridcentric_ceph-salt-states
+	url = https://github.com/gridcentric/ceph-salt-states.git
+[submodule "ajw0100_my-states"]
+	path = ajw0100_my-states
+	url = https://github.com/ajw0100/my-states.git
+[submodule "DavisMakerspace_salt-states"]
+	path = DavisMakerspace_salt-states
+	url = https://github.com/DavisMakerspace/salt-states.git
+[submodule "mike-perdide_custom_salt_states"]
+	path = mike-perdide_custom_salt_states
+	url = https://github.com/mike-perdide/custom_salt_states.git
+[submodule "jwineinger_salt-experiments"]
+	path = jwineinger_salt-experiments
+	url = https://github.com/jwineinger/salt-experiments.git
+[submodule "kiorky_openstack-salt-states"]
+	path = kiorky_openstack-salt-states
+	url = https://github.com/kiorky/openstack-salt-states.git
+[submodule "binocarlos_salt-states"]
+	path = binocarlos_salt-states
+	url = https://github.com/binocarlos/salt-states.git
+[submodule "SS-archive_salt-states"]
+	path = SS-archive_salt-states
+	url = https://github.com/SS-archive/salt-states.git
+[submodule "project-banjo_veldthollow-salt-states"]
+	path = project-banjo_veldthollow-salt-states
+	url = https://github.com/project-banjo/veldthollow-salt-states.git
+[submodule "elbaschid_salt-states"]
+	path = elbaschid_salt-states
+	url = https://github.com/elbaschid/salt-states.git
+[submodule "oba11_salt-stunnel"]
+	path = oba11_salt-stunnel
+	url = https://github.com/oba11/salt-stunnel.git
+[submodule "RobSpectre_salt-states"]
+	path = RobSpectre_salt-states
+	url = https://github.com/RobSpectre/salt-states.git
+[submodule "cloudseed-project_cloudseed-states"]
+	path = cloudseed-project_cloudseed-states
+	url = https://github.com/cloudseed-project/cloudseed-states.git
+[submodule "powellchristoph_salt-rslb"]
+	path = powellchristoph_salt-rslb
+	url = https://github.com/powellchristoph/salt-rslb.git
+[submodule "SlickNik_salt-states"]
+	path = SlickNik_salt-states
+	url = https://github.com/SlickNik/salt-states.git
+[submodule "fictivekin_shared-salt-states"]
+	path = fictivekin_shared-salt-states
+	url = https://github.com/fictivekin/shared-salt-states.git
+[submodule "makinacorpus_makina-states"]
+	path = makinacorpus_makina-states
+	url = https://github.com/makinacorpus/makina-states.git
+[submodule "pelme_salt-home"]
+	path = pelme_salt-home
+	url = https://github.com/pelme/salt-home.git
+[submodule "xdavidliu_SALT.jl"]
+	path = xdavidliu_SALT.jl
+	url = https://github.com/xdavidliu/SALT.jl.git
+[submodule "perurbis_salt-states"]
+	path = perurbis_salt-states
+	url = https://github.com/perurbis/salt-states.git
+[submodule "jr0d_salt-states"]
+	path = jr0d_salt-states
+	url = https://github.com/jr0d/salt-states.git
+[submodule "tylux_salt-opencart"]
+	path = tylux_salt-opencart
+	url = https://github.com/tylux/salt-opencart.git
+[submodule "Lab305_base-states"]
+	path = Lab305_base-states
+	url = https://github.com/Lab305/base-states.git
+[submodule "auser_states"]
+	path = auser_states
+	url = https://github.com/auser/states.git
+[submodule "maxmzkr_my-salt-states"]
+	path = maxmzkr_my-salt-states
+	url = https://github.com/maxmzkr/my-salt-states.git
+[submodule "eunchul_salt-states"]
+	path = eunchul_salt-states
+	url = https://github.com/eunchul/salt-states.git
+[submodule "alexclear_salt-states-munin"]
+	path = alexclear_salt-states-munin
+	url = https://github.com/alexclear/salt-states-munin.git
+[submodule "atyagi1024_salt-states"]
+	path = atyagi1024_salt-states
+	url = https://github.com/atyagi1024/salt-states.git
+[submodule "patmcnally_salt-states-webapps"]
+	path = patmcnally_salt-states-webapps
+	url = https://github.com/patmcnally/salt-states-webapps.git
+[submodule "shterrel_salt-states"]
+	path = shterrel_salt-states
+	url = https://github.com/shterrel/salt-states.git
+[submodule "epicloops_epic-states"]
+	path = epicloops_epic-states
+	url = https://github.com/epicloops/epic-states.git
+[submodule "jaddison_salt-base-states"]
+	path = jaddison_salt-base-states
+	url = https://github.com/jaddison/salt-base-states.git
+[submodule "circatree_salt-hosting-states"]
+	path = circatree_salt-hosting-states
+	url = https://github.com/circatree/salt-hosting-states.git
+[submodule "jaredhaight_salt_states"]
+	path = jaredhaight_salt_states
+	url = https://github.com/jaredhaight/salt_states.git
+[submodule "batulin-s_salt-states-dev01"]
+	path = batulin-s_salt-states-dev01
+	url = https://github.com/batulin-s/salt-states-dev01.git
+[submodule "theld84_salt-states"]
+	path = theld84_salt-states
+	url = https://github.com/theld84/salt-states.git
+[submodule "zanloy_salt-mosh"]
+	path = zanloy_salt-mosh
+	url = https://github.com/zanloy/salt-mosh.git
+[submodule "skylerberg_personal-salt"]
+	path = skylerberg_personal-salt
+	url = https://github.com/skylerberg/personal-salt.git
+[submodule "owensbla_salt-states"]
+	path = owensbla_salt-states
+	url = https://github.com/owensbla/salt-states.git
+[submodule "acieroid_salt-states"]
+	path = acieroid_salt-states
+	url = https://github.com/acieroid/salt-states.git
+[submodule "Ins1ne_salt-states"]
+	path = Ins1ne_salt-states
+	url = https://github.com/Ins1ne/salt-states.git
+[submodule "yawningORsnarling_Salt-States"]
+	path = yawningORsnarling_Salt-States
+	url = https://github.com/yawningORsnarling/Salt-States.git
+[submodule "gravyboat_hungryadmin-sls"]
+	path = gravyboat_hungryadmin-sls
+	url = https://github.com/gravyboat/hungryadmin-sls.git
+[submodule "PCI-SM-OSAN_openstack-salt-states"]
+	path = PCI-SM-OSAN_openstack-salt-states
+	url = https://github.com/PCI-SM-OSAN/openstack-salt-states.git
+[submodule "dialelo_states"]
+	path = dialelo_states
+	url = https://github.com/dialelo/states.git
+[submodule "yesimon_salt-states"]
+	path = yesimon_salt-states
+	url = https://github.com/yesimon/salt-states.git
+[submodule "DanielBryan_salt-state-graph"]
+	path = DanielBryan_salt-state-graph
+	url = https://github.com/DanielBryan/salt-state-graph.git
+[submodule "stackstrap_stackstrap"]
+	path = stackstrap_stackstrap
+	url = https://github.com/stackstrap/stackstrap.git
+[submodule "bonJoeV_salt-states"]
+	path = bonJoeV_salt-states
+	url = https://github.com/bonJoeV/salt-states.git
+[submodule "drawsmcgraw_salt-states"]
+	path = drawsmcgraw_salt-states
+	url = https://github.com/drawsmcgraw/salt-states.git
+[submodule "rampantmonkey_salt-states"]
+	path = rampantmonkey_salt-states
+	url = https://github.com/rampantmonkey/salt-states.git
+[submodule "jianingy_salt-states"]
+	path = jianingy_salt-states
+	url = https://github.com/jianingy/salt-states.git
+[submodule "glycoknob_salt-states"]
+	path = glycoknob_salt-states
+	url = https://github.com/glycoknob/salt-states.git
+[submodule "asmaps_salt-states"]
+	path = asmaps_salt-states
+	url = https://github.com/asmaps/salt-states.git
+[submodule "greghaynes_SaltStates"]
+	path = greghaynes_SaltStates
+	url = https://github.com/greghaynes/SaltStates.git
+[submodule "bl-mds_salt-states-lnmp53"]
+	path = bl-mds_salt-states-lnmp53
+	url = https://github.com/bl-mds/salt-states-lnmp53.git
+[submodule "mohae_states"]
+	path = mohae_states
+	url = https://github.com/mohae/states.git
+[submodule "Satshabad_salt-states"]
+	path = Satshabad_salt-states
+	url = https://github.com/Satshabad/salt-states.git
+[submodule "ipython_salt-states-nbviewer"]
+	path = ipython_salt-states-nbviewer
+	url = https://github.com/ipython/salt-states-nbviewer.git
+[submodule "gtmanfred_salt-states"]
+	path = gtmanfred_salt-states
+	url = https://github.com/gtmanfred/salt-states.git
+[submodule "un33k_states"]
+	path = un33k_states
+	url = https://github.com/un33k/states.git
+[submodule "tdf_salt-states-base"]
+	path = tdf_salt-states-base
+	url = https://github.com/tdf/salt-states-base.git
+[submodule "djl_states"]
+	path = djl_states
+	url = https://github.com/djl/states.git
+[submodule "scoates_salt-multi-identity-git-states"]
+	path = scoates_salt-multi-identity-git-states
+	url = https://github.com/scoates/salt-multi-identity-git-states.git
+[submodule "analogbyte_salt-states"]
+	path = analogbyte_salt-states
+	url = https://github.com/analogbyte/salt-states.git
+[submodule "jahkeup_salt-quagga"]
+	path = jahkeup_salt-quagga
+	url = https://github.com/jahkeup/salt-quagga.git
+[submodule "retr0h_salt-states"]
+	path = retr0h_salt-states
+	url = https://github.com/retr0h/salt-states.git
+[submodule "alexclear_salt-states-graphite-statsd-gdash"]
+	path = alexclear_salt-states-graphite-statsd-gdash
+	url = https://github.com/alexclear/salt-states-graphite-statsd-gdash.git
+[submodule "zanloy_salt-vim"]
+	path = zanloy_salt-vim
+	url = https://github.com/zanloy/salt-vim.git
+[submodule "fxdgear_salt-states"]
+	path = fxdgear_salt-states
+	url = https://github.com/fxdgear/salt-states.git
+[submodule "dangerousbeans_salt_states"]
+	path = dangerousbeans_salt_states
+	url = https://github.com/dangerousbeans/salt_states.git
+[submodule "gsyt_salt-tmux"]
+	path = gsyt_salt-tmux
+	url = https://github.com/gsyt/salt-tmux.git
+[submodule "blast-hardcheese_x220t-salt-states"]
+	path = blast-hardcheese_x220t-salt-states
+	url = https://github.com/blast-hardcheese/x220t-salt-states.git
+[submodule "bakodo_salt-states"]
+	path = bakodo_salt-states
+	url = https://github.com/bakodo/salt-states.git
+[submodule "gridcentric_openstack-salt-states"]
+	path = gridcentric_openstack-salt-states
+	url = https://github.com/gridcentric/openstack-salt-states.git
+[submodule "rhormaza_salt-common-states"]
+	path = rhormaza_salt-common-states
+	url = https://github.com/rhormaza/salt-common-states.git
+[submodule "shadowfax-chc_salt-states"]
+	path = shadowfax-chc_salt-states
+	url = https://github.com/shadowfax-chc/salt-states.git
+[submodule "tomgruner_salt-states"]
+	path = tomgruner_salt-states
+	url = https://github.com/tomgruner/salt-states.git
+[submodule "shazow_salt-states"]
+	path = shazow_salt-states
+	url = https://github.com/shazow/salt-states.git
+[submodule "pcrews_drizzle-ci-salt"]
+	path = pcrews_drizzle-ci-salt
+	url = https://github.com/pcrews/drizzle-ci-salt.git
+[submodule "cznewt_salt-state-gitlab"]
+	path = cznewt_salt-state-gitlab
+	url = https://github.com/cznewt/salt-state-gitlab.git
+[submodule "quantonganh_salt-states"]
+	path = quantonganh_salt-states
+	url = https://github.com/quantonganh/salt-states.git
+[submodule "olemartinorg_my-i3-state"]
+	path = olemartinorg_my-i3-state
+	url = https://github.com/olemartinorg/my-i3-state.git
+[submodule "RootATX_salt-states"]
+	path = RootATX_salt-states
+	url = https://github.com/RootATX/salt-states.git
+[submodule "jasonmorganson_salt-states"]
+	path = jasonmorganson_salt-states
+	url = https://github.com/jasonmorganson/salt-states.git
+[submodule "therevmj_salt-states"]
+	path = therevmj_salt-states
+	url = https://github.com/therevmj/salt-states.git
+[submodule "jspc_salt-states"]
+	path = jspc_salt-states
+	url = https://github.com/jspc/salt-states.git
+[submodule "torhve_states"]
+	path = torhve_states
+	url = https://github.com/torhve/states.git
+[submodule "goodcjw_salt-states"]
+	path = goodcjw_salt-states
+	url = https://github.com/goodcjw/salt-states.git
+[submodule "jahkeup_salt-docker"]
+	path = jahkeup_salt-docker
+	url = https://github.com/jahkeup/salt-docker.git
+[submodule "naviens_hadoop-salt-states"]
+	path = naviens_hadoop-salt-states
+	url = https://github.com/naviens/hadoop-salt-states.git
+[submodule "zanloy_salt-tmux"]
+	path = zanloy_salt-tmux
+	url = https://github.com/zanloy/salt-tmux.git
+[submodule "chipmanc_Salt"]
+	path = chipmanc_Salt
+	url = https://github.com/chipmanc/Salt.git
+[submodule "jdubs_salt-states"]
+	path = jdubs_salt-states
+	url = https://github.com/jdubs/salt-states.git
+[submodule "serverhorror_test-saltstack"]
+	path = serverhorror_test-saltstack
+	url = https://github.com/serverhorror/test-saltstack.git
+[submodule "blitzagency_salt-states"]
+	path = blitzagency_salt-states
+	url = https://github.com/blitzagency/salt-states.git
+[submodule "dzolnierz_salt-states"]
+	path = dzolnierz_salt-states
+	url = https://github.com/dzolnierz/salt-states.git
+[submodule "ConsumerAffairs_salt-states"]
+	path = ConsumerAffairs_salt-states
+	url = https://github.com/ConsumerAffairs/salt-states.git
+[submodule "Netsensia_vagrant-salt-jenkins"]
+	path = Netsensia_vagrant-salt-jenkins
+	url = https://github.com/Netsensia/vagrant-salt-jenkins.git
+[submodule "jmlrt_salt-states"]
+	path = jmlrt_salt-states
+	url = https://github.com/jmlrt/salt-states.git
+[submodule "x110dc_salty-vagrants"]
+	path = x110dc_salty-vagrants
+	url = https://github.com/x110dc/salty-vagrants.git
+[submodule "floyd-may_salt-states"]
+	path = floyd-may_salt-states
+	url = https://github.com/floyd-may/salt-states.git
+[submodule "welsh_salt-states"]
+	path = welsh_salt-states
+	url = https://github.com/welsh/salt-states.git
+[submodule "jesusaurus_hpcs-salt-state"]
+	path = jesusaurus_hpcs-salt-state
+	url = https://github.com/jesusaurus/hpcs-salt-state.git
+[submodule "mjulian_misc-salt-states"]
+	path = mjulian_misc-salt-states
+	url = https://github.com/mjulian/misc-salt-states.git
+[submodule "timoguin_flexnet-salt-states"]
+	path = timoguin_flexnet-salt-states
+	url = https://github.com/timoguin/flexnet-salt-states.git
+[submodule "johnkeates_activemq-formula"]
+	path = johnkeates_activemq-formula
+	url = https://github.com/johnkeates/activemq-formula.git
+[submodule "wefound_salt-states"]
+	path = wefound_salt-states
+	url = https://github.com/wefound/salt-states.git
+[submodule "LoungeCPP_ops"]
+	path = LoungeCPP_ops
+	url = https://github.com/LoungeCPP/ops.git
+[submodule "jcu-eresearch_shared-salt-states-standalone"]
+	path = jcu-eresearch_shared-salt-states-standalone
+	url = https://github.com/jcu-eresearch/shared-salt-states-standalone.git
+[submodule "tairan_salt-states"]
+	path = tairan_salt-states
+	url = https://github.com/tairan/salt-states.git
+[submodule "ozone-io_bootstrap-salt"]
+	path = ozone-io_bootstrap-salt
+	url = https://github.com/ozone-io/bootstrap-salt.git
+[submodule "minadyn_salty-anaconda"]
+	path = minadyn_salty-anaconda
+	url = https://github.com/minadyn/salty-anaconda.git
+[submodule "synaptic-cl_salt-states-base"]
+	path = synaptic-cl_salt-states-base
+	url = https://github.com/synaptic-cl/salt-states-base.git
+[submodule "PCI-SM-OSAN_salt-states"]
+	path = PCI-SM-OSAN_salt-states
+	url = https://github.com/PCI-SM-OSAN/salt-states.git
+[submodule "fly_states"]
+	path = fly_states
+	url = https://github.com/fly/states.git
+[submodule "druonysus_salt-states"]
+	path = druonysus_salt-states
+	url = https://github.com/druonysus/salt-states.git
+[submodule "kyxap1_salt-states"]
+	path = kyxap1_salt-states
+	url = https://github.com/kyxap1/salt-states.git
+[submodule "urban_salt-states"]
+	path = urban_salt-states
+	url = https://github.com/urban/salt-states.git
+[submodule "JohanMoreau_my-salt-states"]
+	path = JohanMoreau_my-salt-states
+	url = https://github.com/JohanMoreau/my-salt-states.git
+[submodule "vespakoen_salt-states"]
+	path = vespakoen_salt-states
+	url = https://github.com/vespakoen/salt-states.git
+[submodule "joshsmith2_move-by-regex-salt"]
+	path = joshsmith2_move-by-regex-salt
+	url = https://github.com/joshsmith2/move-by-regex-salt.git
+[submodule "meymarce_salt-states"]
+	path = meymarce_salt-states
+	url = https://github.com/meymarce/salt-states.git
+[submodule "ahmadsherif_gitlab-salt-states"]
+	path = ahmadsherif_gitlab-salt-states
+	url = https://github.com/ahmadsherif/gitlab-salt-states.git
+[submodule "wlanslovenija_servers-salt-states"]
+	path = wlanslovenija_servers-salt-states
+	url = https://github.com/wlanslovenija/servers-salt-states.git
+[submodule "umeboshi2_paella-states"]
+	path = umeboshi2_paella-states
+	url = https://github.com/umeboshi2/paella-states.git
+[submodule "aboe76_packer_salt-states_testing"]
+	path = aboe76_packer_salt-states_testing
+	url = https://github.com/aboe76/packer_salt-states_testing.git
+[submodule "slang800_salty-wordpress"]
+	path = slang800_salty-wordpress
+	url = https://github.com/slang800/salty-wordpress.git
+[submodule "tcotav_python-sls-example"]
+	path = tcotav_python-sls-example
+	url = https://github.com/tcotav/python-sls-example.git
+[submodule "eric-plaster-myxer_percona-cluster"]
+	path = eric-plaster-myxer_percona-cluster
+	url = https://github.com/eric-plaster-myxer/percona-cluster.git
+[submodule "jamesbjackson_salt-mariadb"]
+	path = jamesbjackson_salt-mariadb
+	url = https://github.com/jamesbjackson/salt-mariadb.git
+[submodule "ajw0100_ajw0100.com-states"]
+	path = ajw0100_ajw0100.com-states
+	url = https://github.com/ajw0100/ajw0100.com-states.git
+[submodule "nigma_salt-states"]
+	path = nigma_salt-states
+	url = https://github.com/nigma/salt-states.git
+[submodule "imprint75_salt-states"]
+	path = imprint75_salt-states
+	url = https://github.com/imprint75/salt-states.git
+[submodule "ajw0100_salt-states"]
+	path = ajw0100_salt-states
+	url = https://github.com/ajw0100/salt-states.git
+[submodule "edmessier_salt-states"]
+	path = edmessier_salt-states
+	url = https://github.com/edmessier/salt-states.git
+[submodule "monash-merc_cvl-salt-states"]
+	path = monash-merc_cvl-salt-states
+	url = https://github.com/monash-merc/cvl-salt-states.git
+[submodule "khrisrichardson_salt-states"]
+	path = khrisrichardson_salt-states
+	url = https://github.com/khrisrichardson/salt-states.git
+[submodule "dcapwell_salt-states"]
+	path = dcapwell_salt-states
+	url = https://github.com/dcapwell/salt-states.git
+[submodule "PCI-SM-OSAN_cons3rt-salt-states"]
+	path = PCI-SM-OSAN_cons3rt-salt-states
+	url = https://github.com/PCI-SM-OSAN/cons3rt-salt-states.git
+[submodule "rgbkrk_salt-states-rackspace-monitoring"]
+	path = rgbkrk_salt-states-rackspace-monitoring
+	url = https://github.com/rgbkrk/salt-states-rackspace-monitoring.git
+[submodule "saltstack_windows-test-states"]
+	path = saltstack_windows-test-states
+	url = https://github.com/saltstack/windows-test-states.git
+[submodule "SmartReceipt_salt_znc"]
+	path = SmartReceipt_salt_znc
+	url = https://github.com/SmartReceipt/salt_znc.git
+[submodule "ukhas_habcloud-salt-states"]
+	path = ukhas_habcloud-salt-states
+	url = https://github.com/ukhas/habcloud-salt-states.git
+[submodule "kevingranade_kevingranade-salt-state"]
+	path = kevingranade_kevingranade-salt-state
+	url = https://github.com/kevingranade/kevingranade-salt-state.git
+[submodule "m87carlson_salt-states"]
+	path = m87carlson_salt-states
+	url = https://github.com/m87carlson/salt-states.git
