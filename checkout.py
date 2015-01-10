@@ -45,13 +45,13 @@ for l in repos.keys():
         if not os.path.exists(name):
 
             print 'missing', name
-            cmd = "git submodule add https://github.com/%s.git %s > log.txt 2>&1" % (l, name)
+            cmd = "git submodule add https://github.com/%s.git %s >> log.txt 2>&1" % (l, name)
             o =  os.system(cmd)
             print "output",o, "command", cmd
             #assert o ==0
 
         (owner,repo) = l.split("/")
-        cmd = "cd {0} && git remote add mdupont git@github.com:h4ck3rm1k3/{1}.git > log2.txt 2>&1".format(name, repo)
+        cmd = "cd {0} && git remote add mdupont git@github.com:h4ck3rm1k3/{1}.git >> log.txt 2>&1".format(name, repo)
         o =  os.system(cmd)
         if o != 32768:
             print o, cmd
