@@ -16,7 +16,7 @@ for l in f.readlines() :
 
     if m:
         l = "%s/%s"  % m.groups()
-        print l
+        print ("Process repo %s" % l)
         repos[l]=1
 f.close()
 
@@ -37,7 +37,11 @@ keys = ("saltstack",
         'Salt Master',
         'Salt Minion',
         "salt formula",
-)
+        "salt-formula",
+        "salt extension:sls language:Scheme",
+        "salt extension:sls language:SaltStack",
+        'user:saltstack-formulas',
+        'user:saltstack')
 
 for k in keys:
     for r in gh.search_repositories(k, sort='forks'):

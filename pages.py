@@ -6,5 +6,5 @@ for x in xrange(1,15):
     d = f.read()
     for u in re.findall(r'\>([^\<\>]+)\<\/a\>',d):
         if u.find('/') > -1 :
-            print u
+            print(u)
     

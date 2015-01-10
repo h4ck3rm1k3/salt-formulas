@@ -33,8 +33,8 @@ def check(fn):
                 #print t
                 
             except Exception as e3 :
-                print fn
-                print "template failed:",e3
+                print(fn)
+                print("template failed:",e3)
                 #print data
             
         
@@ -42,7 +42,6 @@ def check(fn):
         
 
 for l in ['yamlfiles.txt','slsfiles.txt']:
-    print l
     f = open (l)
     for x in f.readlines():
         check(x.rstrip())

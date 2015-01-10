@@ -5,7 +5,7 @@ import os
 
 def check(fn):
     #print fn
-    print fn
+    print("Consider {0}".format(fn))
     r = os.system("~/.local/bin/pylint -E --rcfile=pylint.rc %s" % fn)
     if r not in (0, 512) : # 512= check failed
         raise Exception('fail %s'  % r)
@@ -27,10 +27,10 @@ def check(fn):
     #     #print data
         
 
-for l in ['pyfiles.txt']:
-    print l
-    f = open (l)
-    for x in f.readlines():
-        check(x.rstrip())
+
+for root, dirs, files in os.walk("./"):
+    for filen in files:
+        if filen.endswith(".py"):
+            check(filen)
     
 
