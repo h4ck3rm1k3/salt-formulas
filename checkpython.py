@@ -3,6 +3,17 @@ import sys
 from jinja2 import Environment, PackageLoader, Template
 import os
 
+# shebangs
+#!yaml_jinja
+#!yaml_mako
+#!mako|yaml
+#!jinja|yaml
+#!jinja|mako|yaml
+#!mako|yaml|stateconf
+#!jinja|yaml|stateconf
+#!mako|yaml_odict
+#!mako|yaml_odict|stateconf
+
 def check(fn):
     #print fn
     print("Consider {0}".format(fn))
@@ -31,6 +42,6 @@ def check(fn):
 for root, dirs, files in os.walk("./"):
     for filen in files:
         if filen.endswith(".py"):
-            check(filen)
+            check(root + "/" +filen )
     
 

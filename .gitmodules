@@ -4213,3 +4213,6 @@
 [submodule "coderanger_halite"]
 	path = coderanger_halite
 	url = https://github.com/coderanger/halite.git
+[submodule "dkilcy_saltstack-base"]
+	path = dkilcy_saltstack-base
+	url = https://github.com/dkilcy/saltstack-base.git
