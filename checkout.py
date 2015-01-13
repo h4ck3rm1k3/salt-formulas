@@ -78,7 +78,8 @@ def search():
         process(l)
 
 def main():
-    if sys.argv[1]:
+
+    if len(sys.argv) > 1:
         readfile(sys.argv[1])
     else:
         search()

@@ -4216,3 +4216,15 @@
 [submodule "dkilcy_saltstack-base"]
 	path = dkilcy_saltstack-base
 	url = https://github.com/dkilcy/saltstack-base.git
+[submodule "xofyarg_salt-script"]
+	path = xofyarg_salt-script
+	url = https://github.com/xofyarg/salt-script.git
+[submodule "atbell_salt-consul"]
+	path = atbell_salt-consul
+	url = https://github.com/atbell/salt-consul.git
+[submodule "sjoeboo_puppet-salt"]
+	path = sjoeboo_puppet-salt
+	url = https://github.com/sjoeboo/puppet-salt.git
+[submodule "fishyfriend_salt-master"]
+	path = fishyfriend_salt-master
+	url = https://github.com/fishyfriend/salt-master.git
