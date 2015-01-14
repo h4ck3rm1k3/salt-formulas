@@ -3004,9 +3004,6 @@
 [submodule "gajdipajti_saltstack-winrepo"]
 	path = gajdipajti_saltstack-winrepo
 	url = https://github.com/gajdipajti/saltstack-winrepo.git
-[submodule "h-xyl_salt-demo"]
-	path = h-xyl_salt-demo
-	url = https://github.com/h-xyl/salt-demo.git
 [submodule "panhaitao_saltstack-web"]
 	path = panhaitao_saltstack-web
 	url = https://github.com/panhaitao/saltstack-web.git
@@ -3967,9 +3964,6 @@
 [submodule "druonysus_salt-master"]
 	path = druonysus_salt-master
 	url = https://github.com/druonysus/salt-master.git
-[submodule "prehensile_halite"]
-	path = prehensile_halite
-	url = https://github.com/prehensile/halite.git
 [submodule "micahhausler_docker-saltminion"]
 	path = micahhausler_docker-saltminion
 	url = https://github.com/micahhausler/docker-saltminion.git
