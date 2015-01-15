@@ -25,6 +25,33 @@ find -name \*.yml > yamlfiles.txt
 find -name \*.sls > slsfiles.txt
 find -name \*.py > pyfiles.txt
 
+
+setup
+=====
+
+python setup.py install --root=~/experiments/salt-formulas/root/
+cp -vr conf/* ~/experiments/salt-formulas/root/etc/salt/
+export
+PYTHONPATH=/mnt/data/home/mdupont/experiments/salt-formulas/root/usr/local/lib/python2.7/dist-packages/
+
+in the file
+~/experiments/salt-formulas/root/usr/local/lib/python2.7/dist-packages/salt/_syspaths.py
+
+   ROOT_DIR = '/home/mdupont/experiments/salt-formulas/root/'
+
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/renderers
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/states
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/renderers
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/log_handlers
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/grains
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/modules
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/pillar
+mkdir -p /home/mdupont/experiments/salt-formulas/root/var/cache/salt/minion/extmods/modules
+
+Now,
+the roots in the file root/etc/salt/master
+are generated with checksls.py, but tweaked.
+
 Home
 ====
 
