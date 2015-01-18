@@ -4168,9 +4168,6 @@
 [submodule "wuxxin_salt-setup-template"]
 	path = wuxxin_salt-setup-template
 	url = https://github.com/wuxxin/salt-setup-template.git
-[submodule "david415_halite"]
-	path = david415_halite
-	url = https://github.com/david415/halite.git
 [submodule "jeremysalwen_HaliteClustering"]
 	path = jeremysalwen_HaliteClustering
 	url = https://github.com/jeremysalwen/HaliteClustering.git
