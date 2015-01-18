@@ -9,8 +9,7 @@
 #  location: New York 1
 
 #my-aws-quick-start:
-#  provider: ec2
-#  id: HJGRYCILJLKJYG
+#  provider: ec2: HJGRYCILJLKJYG
 #  key: 'kdjgfsgm;woormgl/aserigjksjdhasdfgn'
 #  keyname: test
 #  securitygroup: quick-start
@@ -82,5 +81,12 @@
 #  tenant: 5555555
 #  apikey: 901d3f579h23c8v73q9
 
-#my-saltify-config:
-#  provider: saltify
+my-aws-default:
+   provider: ec2
+   id: AKIAJOIRUDHPIZDYPMNA
+   key: '5DqRqkB28heACeqjILGrdT7kEPwvBnm5Bi877lhd'
+   keyname: mdupont
+   securitygroup: default
+   private_key: /mnt/newdrive2/home/mdupont/experiments/salt/root/etc/mdupont.pem
+
+

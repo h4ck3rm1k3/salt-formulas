@@ -24,7 +24,7 @@
 # permissions to allow the specified user to run the master. The exception is
 # the job cache, which must be deleted if this user is changed. If the
 # modified files cause conflicts, set verify_env to False.
-#user: root
+user: mdupont
 
 # Max open files
 #
@@ -378,7 +378,19 @@
 # roots cannot match, otherwise the downloaded files will not be able to be
 # reliably ensured. A base environment is required to house the top file.
 # Example:
+# file_roots:
+#   base:
+#     - /srv/salt/
+#   dev:
+#     - /srv/salt/dev/services
+#     - /srv/salt/dev/states
+#   prod:
+#     - /srv/salt/prod/services
+#     - /srv/salt/prod/states
 
+#file_roots:
+#  base:
+#    - /srv/salt
 file_roots:
   base:
      - /mnt/data/home/mdupont/experiments/root/srv/salt  # our top
@@ -2305,17 +2317,6 @@ file_roots:
      - /mnt/data/home/mdupont/experiments/salt-formulas/Cyclohex_formulas/users
      - /mnt/data/home/mdupont/experiments/salt-formulas/scalr-tutorials_scalr-saltstack/data
 
-#   dev:
-#     - /srv/salt/dev/services
-#     - /srv/salt/dev/states
-#   prod:
-#     - /srv/salt/prod/services
-#     - /srv/salt/prod/states
-
-#file_roots:
-#  base:
-#    - /srv/salt
-
 # The hash_type is the hash to use when discovering the hash of a file on
 # the master server. The default is md5, but sha1, sha224, sha256, sha384
 # and sha512 are also supported.
@@ -2569,9 +2570,6 @@ file_roots:
 
 # The format of the console logging messages. Allowed formatting options can
 # be seen here: http://docs.python.org/library/logging.html#logrecord-attributes
-#
-# Console log colors are specified by these special log formatters:
-# %(colorlevel), %(colorname), %(colorprocess), %(colormsg).
 #log_fmt_console: '[%(levelname)-8s] %(message)s'
 #log_fmt_logfile: '%(asctime)s,%(msecs)03.0f [%(name)-17s][%(levelname)-8s] %(message)s'
 

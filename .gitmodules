@@ -4222,3 +4222,6 @@
 [submodule "fishyfriend_salt-master"]
 	path = fishyfriend_salt-master
 	url = https://github.com/fishyfriend/salt-master.git
+[submodule "accumulo_demo_formula"]
+	path = accumulo_demo_formula
+	url = https://github.com/accumulo/accumulo-demo-formula.git

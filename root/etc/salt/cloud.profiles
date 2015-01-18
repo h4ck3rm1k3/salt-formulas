@@ -1,23 +1,22 @@
-base_ec2:
-  provider: my-ec2-config
-  image: ami-e565ba8c
+debian_east_aws:
+  provider: my-aws-default
+  image: ami-646ee40c
   size: t1.micro
-  script: python-bootstrap
-  minion:
-      cheese: edam
+  location: us-east-1
 
-ubuntu_rs:
-  provider: my-openstack-rackspace-config
-  image: Ubuntu 12.04 LTS
-  size: 256 server
-  script: Ubuntu
-  minion:
-      cheese: edam
+# works
+debian_east_aws2:
+  provider: my-aws-default
+  image: ami-0258e26a
+  size: t1.micro
+  location: us-east-1
 
-fedora_rs:
-  provider: my-openstack-rackspace-config
-  image: Fedora 17
-  size: 256 server
-  script: Fedora
-  minion:
-      cheese: edam
+# works
+debian_east_aws3:
+  provider: my-aws-default
+  image: ami-2058e248
+  size: t1.micro
+  location: us-east-1
+
+
+

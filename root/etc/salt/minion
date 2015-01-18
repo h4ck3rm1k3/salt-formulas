@@ -283,18 +283,264 @@
 ##########################################
 # Disable specific modules. This allows the admin to limit the level of
 # access the master has to the minion.
-#disable_modules: [cmd,test]
+disable_modules: [xapi]
 #disable_returners: []
 #
 # Modules can be loaded from arbitrary paths. This enables the easy deployment
 # of third party modules. Modules for returners and minions can be loaded.
 # Specify a list of extra directories to search for minion modules and
 # returners. These paths must be fully qualified!
-#module_dirs: []
-#returner_dirs: []
-#states_dirs: []
+#    "/mnt/data/home/mdupont/experiments/salt-formulas/MadeiraCloud_salt/libs/",
+
+# module_dirs: [
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/CSSCorp_openstack-automation/file_root/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/ConsumerAffairs_salt-states/opt/graphite/webapp/graphite',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/ConsumerAffairs_salt-states/usr/local/bin',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/FleetingClouds_SaltStackToolSet/gdata_oerp_pump/srv/salt/gdata_oerp_pump',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/Gohan_salt-state/tools/python27',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/Ins1ne_salt-states/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/Ins1ne_salt-states/salt/_runners',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/Ins1ne_salt-states/salt/app',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/JustinCarmony_vagrant-cloud/saltstack/salt/_modules',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/Korrigan_pepperstack/pepperstack', the code itself
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/Korrigan_pepperstack/salt_ext_modules/pillar', # the salt modules
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/MadeiraCloud_salt/sources/mod',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/MadeiraCloud_salt/sources/salt/client/ssh/wrapper',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/aboe76_packer_salt-states_testing/salt/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/aboe76_packer_salt-states_testing/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/ahale_salt-playground/playground/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/astral1_vagrant-salt-test/salt/modules/pillar',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/astral1_vagrant-salt-test/salt/roots/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/astral1_vagrant-salt-test/salt/roots/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/auser_states/states/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/_modules',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/apt',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/backup/server',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/elasticsearch',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/firewall',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/nrpe',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/bossjones_salt-scarlett/salt/roots/salt/django',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/cgallemore_djvasa/djvasa/templates',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/conjurdemos_salt-stack-ssh/srv/runners',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/corywright_salt-pillar-overlay-bug/salt/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/d1rk_salt/salt/_modules',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/david415_halite/src/python',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/daviddyball_salt/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/dkilcy_juno-saltstack/states/openstack/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/elbaschid_dockbot/salt/base/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/felskrone_salt-eventsd/doc/share/doc/eventsd_workers',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/fxdgear_salt-states/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/gtmtechltd_salthiera/salt/pillar',
+# #    '/mnt/data/home/mdupont/experiments/salt-formulas/halfss_salt-dashboard/salt_dashboard/api',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/hipikat_salt-formulas/wsgi_still-formula/scripts',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/ionutbalutoiu_salt-openstack/file_root/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/ist0ne_salt-states/salt/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/ist0ne_salt-states/salt/_runners',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/jaddison_salt-base-states/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/jeffh_Seafood/configurations/base/states/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/jnrain_salt-conf/states/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/kerncai_saltstack/salt_configuration/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/khrisrichardson_salt-states/salt/_modules',
+# #    '/mnt/data/home/mdupont/experiments/salt-formulas/khrisrichardson_salt-states/salt/openstack-dashboard-ubuntu-theme/etc/openstack-dashboard',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/lincolnloop_salt-stats/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/makinacorpus_makina-states/mc_states/pillar',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/makinacorpus_makina-states/mc_states/renderers',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/makinacorpus_makina-states/mc_states/returners',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/makinacorpus_makina-states/mc_states/states',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/matthewpatterson_minions/modules/phpenv/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/mingfang_docker-salt/srv/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/morlandi_stack_basic/saltstack/salt/django-learn-postgresql',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/oba11_salt-collectd/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/oba11_salt-nfs/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/ogrisel_cardice/cardice/templates',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/pengyao_salt-lvs/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/pengyao_salt-zabbix/salt/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/pgexperts_saltstack-talk-examples/srvsalt/01-users-only/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/pgexperts_saltstack-talk-examples/srvsalt/02-postgresql/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/pgexperts_saltstack-talk-examples/srvsalt/03-postgresql-pillar/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/pgexperts_saltstack-talk-examples/srvsalt/04-pgbouncer-mine/_modules',
+#     #'/mnt/data/home/mdupont/experiments/salt-formulas/rackeric_salt-nummr/application/python_apps', for redhat, overwrites the PYTHON_EGG_CACHE
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/rangertaha_salt-manager/salt-manager/webapp/apps/admin/bin',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-contrib/modules/wireunlurk',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-contrib/tests/unit/modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-contrib/tests/unit/states',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-qa/salt/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-qa/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-testing/salttesting/cherrypytest',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-testing/salttesting/ext',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-testing/salttesting/parser',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-testing/salttesting/pylintplugins',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_saltstack_org/saltutil/templatetags',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/shomodj_salt-states/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/shomodj_salt-states/salt/modoboa/nginx',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/tateeskew_salt-states/graphite/graphite-web/opt/graphite/webapp/graphite',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/tf198_salt-states/states/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/thedrow_python-baseline/salt/roots/usr/local/sbin',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/vinta_HeelsFetishism-Deployment/salt/scrapy',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/wendall911_wendall911-salt-states/salt/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/y0j_salt-configs/dev/django',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/yumike_pycon2013/salt/roots/salt/_modules',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/yumike_pycon2013/salt/roots/salt/helloworld',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/yyf1986_saltstack/salt/_grains',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/yyf1986_saltstack/salt/_modules',
+# #    '/mnt/data/home/mdupont/experiments/salt-formulas/halfss_salt-dashboard/salt_dashboard/api',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-contrib/tests/unit/states',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-testing/salttesting/cherrypytest',
+#     '/mnt/data/home/mdupont/experiments/salt-formulas/saltstack_salt-testing/salttesting/pylintplugins'
+# ]
+
+# # files....
+# #    "/mnt/data/home/mdupont/experiments/salt-formulas/lemonlatte_openstack-formula/openstack/horizon/files",
+# #    "/mnt/data/home/mdupont/experiments/salt-formulas/saltstack-formulas_graphite-formula/graphite/files",
+# #    "/mnt/data/home/mdupont/experiments/salt-formulas/saltstackme_salt-rocks/graphite/files",
+
+# returner_dirs: [
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/lincolnloop_salt-stats/salt/_returners",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/astral1_vagrant-salt-test/salt/roots/_returners",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/_returners",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/tinyclues_saltpad/saltpad/_returners",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/daviddyball_salt/salt/_returners",
+# ]
+
+# states_dirs: [
+
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/nigma_salt-states/salt/roots/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/yumike_pycon2013/salt/roots/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/daviddyball_salt/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/pengyao_salt-lvs/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/auser_states/states/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/ahale_salt-playground/playground/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/ionutbalutoiu_salt-openstack/file_root/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/Pexeso_pypack-formula/_states/pypack",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/jaddison_salt-base-states/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/d1rk_salt/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/jeffh_Seafood/configurations/base/states/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/tf198_salt-states/states/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/mingfang_docker-salt/srv/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/elbaschid_dockbot/salt/base/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/khrisrichardson_salt-states/salt/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/matthewpatterson_minions/modules/phpenv/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/bclermont_states/states/_states",
+#     "/mnt/data/home/mdupont/experiments/salt-formulas/CSSCorp_openstack-automation/file_root/_states", 
+# ]
+
 #render_dirs: []
-#utils_dirs: []
+utils_dirs: [
+    "/mnt/data/home/mdupont/experiments/salt-formulas/dhmsbr_salt-stack-remedy/saltcloud/utils",
+
+    "/mnt/data/home/mdupont/experiments/salt-formulas/pengyao_salt-broker/saltbroker/utils",
+    "/mnt/data/home/mdupont/experiments/salt-formulas/dhmsbr_salt-stack-remedy/saltcloud/utils",
+]
+
+
+
+module_dirs: [ 
+./minadyn_salty-anaconda,
+./saltstack_salt-contrib/pillars,
+./kjoconnor_salt-contrib/_modules,
+./KrisSaxton_salt-ldap/modules,
+./MadeiraCloud_salt/sources/salt/modules,
+./mingfang_docker-salt/srv/salt/_modules,
+./mosen_salt-osx/_modules,
+./khrisrichardson_salt-states/salt/_modules,
+./yumike_pycon2013/salt/roots/salt/_modules,
+./tf198_salt-states/states/_modules,
+./KrisSaxton_salt-ldap/pillar,
+./saurabhsurana_salt-stack-demo/ext-pillar,
+./xtha_salt/_retunner,
+./UtahDave_salt-pi,
+./astral1_vagrant-salt-test/salt/modules/pillar,
+./MadeiraCloud_salt/sources/salt/auth,
+./VertigoRay_salt-osx-dsconfigad,
+./rhormaza_salt-common-states/salt/files,
+./elbaschid_dockbot/salt/base/salt/_modules,
+./CSSCorp_openstack-automation/file_root/_modules,
+./daviddyball_salt/salt/_modules,
+./acieroid_salt-states/_modules,
+./astral1_vagrant-salt-test/salt/roots/_modules,
+./quantonganh_salt-states/_modules,
+./MadeiraCloud_salt/sources/salt/log/handlers,
+./MadeiraCloud_salt/sources/salt/states,
+./tdf_salt-states-base/_modules,
+./jesusaurus_salt-formula-rabbitmq/_modules,
+./makinacorpus_makina-states/mc_states/modules,
+./borgstrom_nacl/salt_renderer,
+./shepax_sqlserver_saltstack,
+./Korrigan_pepperstack/salt_ext_modules/pillar,
+./MadeiraCloud_salt/sources/salt,
+./mathcamp_aws-formula/_modules,
+./MadeiraCloud_salt/sources/salt/runners,
+./jasondenning_salt-pillar-dynamo,
+./lincolnloop_salt-stats/salt/_modules,
+./gtmtechltd_salthiera/salt/pillar,
+./mafrosis_salt-formulae/_grains,
+./atbell_salt-consul/_modules,
+./worstadmin_salt-module-tcplisten,
+./auser_states/states/_modules,
+./cznewt_salt-state-gitlab/modules,
+./saltstackme_salt-rocks/_modules,
+./,
+./makinacorpus_makina-states/mc_states/states,
+./saltstack_salt-contrib/states,
+./saltstack_salt-contrib/tests/unit/states,
+./bclermont_states/states/_modules,
+./stackforge_keystone-salt-formula/_modules,
+./feth_pelican-salt,
+./majerteam_samba_report_module/_modules,
+./cznewt_salt-state-gitlab/states,
+./MadeiraCloud_salt/sources/salt/cloud/clouds,
+./gladiatr72_pyOvirt/salt/execution,
+./ionutbalutoiu_salt-openstack/file_root/_modules,
+./ahale_salt-playground/playground/_modules,
+./dhmsbr_salt-stack-remedy/saltcloud/clouds,
+./dgilm_salt-states-alienvault/_modules,
+./pengyao_salt-lvs/salt/_modules,
+./Psycojoker_dawdaw/dawdaw,
+./trebuchet-deploy_trebuchet/returners,
+./ranl_salt-pillar-linker,
+./mafrosis_salt-formulae/salt-backports,
+./davechina_SaltStack/_modules,
+./MadeiraCloud_salt/sources/salt/pillar,
+./MadeiraCloud_salt/sources/salt/output,
+./saltstack_salt-contrib/modules,
+./mosen_salt-osx/_grains
+]
+
+
+returner_dirs: [ 
+./daviddyball_salt/salt/_returners,
+./tinyclues_saltpad/saltpad/_returners,
+./bclermont_states/states/_returners,
+./astral1_vagrant-salt-test/salt/roots/_returners,
+./tdf_salt-states-base/_returners,
+./lincolnloop_salt-stats/salt/_returners
+]
+
+
+states_dirs: [ 
+./jesusaurus_salt-formula-rabbitmq/_states,
+./nigma_salt-states/salt/roots/salt/_states,
+./CSSCorp_openstack-automation/file_root/_states,
+./mingfang_docker-salt/srv/salt/_states,
+./yumike_pycon2013/salt/roots/salt/_states,
+./kjoconnor_salt-contrib/_states,
+./hvnsweeting_saltstates/_states,
+./pengyao_salt-lvs/salt/_states,
+./stackforge_keystone-salt-formula/_states,
+./ionutbalutoiu_salt-openstack/file_root/_states,
+./bclermont_states/states/_states,
+./d1rk_salt/salt/_states,
+./saltstackme_salt-rocks/_states,
+./elbaschid_dockbot/salt/base/salt/_states,
+./atbell_salt-consul/_states,
+./mosen_salt-osx/_states,
+./davechina_SaltStack/_states,
+./khrisrichardson_salt-states/salt/_states
+]
+
+
+
 #
 # A module provider can be statically overwritten or extended for the minion
 # via the providers option, in this case the default module will be
@@ -460,10 +706,6 @@
 # states is cluttering the logs. Set it to True to ignore them.
 #state_output_diff: False
 
-# The state_output_profile setting changes whether profile information
-# will be shown for each state run.
-#state_output_profile: True
-
 # Fingerprint of the master public key to double verify the master is valid,
 # the master fingerprint can be found by running "salt-key -F master" on the
 # salt master.
@@ -509,9 +751,6 @@
 
 # The format of the console logging messages. Allowed formatting options can
 # be seen here: http://docs.python.org/library/logging.html#logrecord-attributes
-#
-# Console log colors are specified by these special log formatters:
-# %(colorlevel), %(colorname), %(colorprocess), %(colormsg).
 #log_fmt_console: '[%(levelname)-8s] %(message)s'
 #log_fmt_logfile: '%(asctime)s,%(msecs)03.0f [%(name)-17s][%(levelname)-8s] %(message)s'
 
