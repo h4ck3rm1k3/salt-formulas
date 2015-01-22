@@ -1,0 +1,21 @@
+# here is a hack to test all modules, we want to see what ones load and what opts they use directly. What modules use what other modules would be nice to know as well.
+from support import Opts
+from salt.template import compile_template
+import salt.loader
+import salt
+import pprint
+
+opts=Opts({
+
+    'grains' : {
+        'kernel': 'Linux',
+        'os': 'Debian',
+        'os_family' : 'Debian'
+    },
+    ## minion mods
+    'extension_modules' : "",
+    'module_dirs' : "",
+    'whitelist_modules' : "",
+
+})
+functions = salt.loader.minion_mods(opts)
