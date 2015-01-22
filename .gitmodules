@@ -2377,9 +2377,6 @@
 [submodule "elbaschid_MelbDjango_SaltStack"]
 	path = elbaschid_MelbDjango_SaltStack
 	url = https://github.com/elbaschid/MelbDjango_SaltStack.git
-[submodule "h4ck3rm1k3_salt-formulas"]
-	path = h4ck3rm1k3_salt-formulas
-	url = https://github.com/h4ck3rm1k3/salt-formulas.git
 [submodule "packeteer_saltstack"]
 	path = packeteer_saltstack
 	url = https://github.com/packeteer/saltstack.git
