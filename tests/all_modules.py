@@ -9,10 +9,15 @@ import imp
 
 import types
 import sys
-plugins = types.ModuleType("modules")
-plugins.__path__ = ["modules"]
+
+modulename = "testmodules"
+plugins = types.ModuleType(modulename)
+plugins.__path__ = [modulename]
 
 log = logging.getLogger(__name__)
+
+from import_errors import import_errors
+
 dirs = """./MadRussian_apt-cacher-formula
 ./MadRussian_apt-cacher-formula/apt-cacher
 ./MadRussian_apt-cacher-formula/apt-cacher/files
@@ -4085,7 +4090,6 @@ dirs = """./MadRussian_apt-cacher-formula
 ./code42_saltball/example
 ./code42_saltball/example/.meta
 ./code42_saltball/example/file
-./makinacorpus_makina-states
 ./makinacorpus_makina-states/nodetypes
 ./makinacorpus_makina-states/_scripts
 ./makinacorpus_makina-states/examples
@@ -6312,8 +6316,6 @@ dirs = """./MadRussian_apt-cacher-formula
 ./xtha_salt/roles/ftp/autofs
 ./xtha_salt/roles/ftp/autofs/automount
 ./xtha_salt/roles/wato
-./xtha_salt/roles/fabric
-./xtha_salt/roles/fabric/network
 ./xtha_salt/roles/fabric/network/cisco
 ./xtha_salt/roles/swatch
 ./xtha_salt/roles/bash
@@ -15169,7 +15171,6 @@ dirs = """./MadRussian_apt-cacher-formula
 ./ukhas_habcloud-salt-states/ntp
 ./ukhas_habcloud-salt-states/exim
 ./ukhas_habcloud-salt-states/apt_cache
-./lugensa_bo_salt
 ./lugensa_bo_salt/templates
 ./lugensa_bo_salt/salt
 ./lugensa_bo_salt/salt/python
@@ -15222,37 +15223,45 @@ dirs = """./MadRussian_apt-cacher-formula
 ./scalr-tutorials_scalr-saltstack/data/monitoring/monit
 ./scalr-tutorials_scalr-saltstack/scripts"""
 
+#./xtha_salt/roles/fabric
+#./xtha_salt/roles/fabric/network
+
+#./lugensa_bo_salt
+#./makinacorpus_makina-states # contains dangerous code
+
 import os
 all_dirs = [ os.path.abspath(path) for path in dirs.split("\n")]  
 #all_dirs.append(None)
 #print all_dirs
 
+#import_errors = {}
+
 def proc_file(names, mod_dir, fn_):
+
+    path = os.path.join(mod_dir, fn_)
+    if path in import_errors:
+        return False # skip
+
+    log.trace('considering {0}{1}'.format(mod_dir, fn_))
 
     cython_enabled =True
 
     if fn_.startswith('_'):
         # skip private modules
         # log messages omitted for obviousness
+        import_errors[path]="private"
         return False
-
-    # if fn_.split('.')[0] in disable:
-    #     log.trace(
-    #         'Skipping {0}, it is disabled by configuration'.format(
-    #             fn_
-    #         )
-    #     )
-    #     return False
 
     if fn_.endswith(('.pyc', '.pyo')):
         non_compiled_filename = '{0}.py'.format(os.path.splitext(fn_)[0])
         if os.path.exists(os.path.join(mod_dir, non_compiled_filename)):
             # Let's just process the non compiled python modules
+            import_errors[path]="skip"
             return False
 
     if (fn_.endswith(('.py', '.pyc', '.pyo', '.so'))
         or (cython_enabled and fn_.endswith('.pyx'))
-            or os.path.isdir(os.path.join(mod_dir, fn_))):
+            or os.path.isdir(path)):
 
         extpos = fn_.rfind('.')
         if extpos > 0:
@@ -15273,17 +15282,21 @@ def proc_file(names, mod_dir, fn_):
             )
             return False
 
-        names[_name] = os.path.join(mod_dir, fn_)
+        names[_name] = path
     else:
+        import_errors[path]="badname"
         log.trace(
             'Skipping {0}, it does not end with an expected '
             'extension'.format(
                 fn_
             )
         )
+        
     
 
 def proc_dir(names, mod_dir):
+    log.trace('proc dir {0}'.format(mod_dir)    )
+
     if not os.path.isabs(mod_dir):
         log.trace(
             'Skipping {0}, it is not an absolute path'.format(
@@ -15298,35 +15311,52 @@ def proc_dir(names, mod_dir):
             )
         )
         return False
+
     for fn_ in os.listdir(mod_dir):
         proc_file(names, mod_dir, fn_)
 
 
+
+good_modules={}
+
 def import_name(name, dirn):
+
+    fpath = os.path.join(dirn,name)
+
+    if fpath in import_errors :
+        return False
+
     try :
         fn_, path, desc = imp.find_module(name, [ dirn ])
     except ImportError as e:
+        import_errors[fpath]="find_failed"
         #log.debug(e)
         return False
     loaded_base_name = "funky"
     typen = "funky"
     tag = "more"
-
     try :
-        mod = imp.load_module(
-            'modules.{0}'.format(
-                name
-            ), fn_, path, desc
-        )
+        if path not in import_errors :
+            mod = imp.load_module(
+                '{0}.{1}'.format(modulename,
+                                 name
+                             ),
+                fn_, path, desc)
+
+            good_modules[fpath]=1
+
     except ImportError as exp :
-        #log.debug(exp)
+        import_errors[fpath]=str(exp)
+        #log.debug("Import error {0}".format(exp))
         return False
 
     except Exception as exp :
-        log.debug(exp)
+        import_errors[fpath]=str(exp)
+        #log.debug("error:{0}".format(exp))
         return False
 
     except  :
+        import_errors[fpath]="Bad error"
         log.debug("Something")
         return False
 
@@ -15350,5 +15380,14 @@ for dirn in all_dirs :
 
     proc_dir(names, dirn)
     for name in names :
-        print "Going to attemp", dirn,name
+        log.trace("Going to attempt dir {0} name {1}".format(dirn,name))
         import_name(name, dirn)
+
+of = open("/home/mdupont/experiments/salt-formulas/tests/import_errors.py","w")
+of.write("import_errors={0}".format(pprint.pformat(import_errors)))
+of.close
+
+#
+of = open("/home/mdupont/experiments/salt-formulas/tests/good_modules.py","w")
+of.write("good_modules={0}".format(pprint.pformat(good_modules)))
+of.close
